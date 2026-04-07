@@ -54,7 +54,7 @@ st.sidebar.header(f"Filtros de Cliente: {st.session_state['name']}")
 categoria = st.sidebar.multiselect(
     "Filtrar por Categoría:", 
     options=df["Producto"].unique(), 
-    default=df["Producto"].unique() # Seleccionadas todas por defecto
+   
 )
 
 # Aplicamos el filtro reactivo al DataFrame principal
