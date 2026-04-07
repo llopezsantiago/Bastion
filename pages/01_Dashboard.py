@@ -51,14 +51,14 @@ if df.empty:
 st.sidebar.header(f"Filtros de Cliente: {st.session_state['name']}")
 
 # Selector múltiple que detecta automáticamente las categorías presentes en el archivo
-categoria = st.sidebar.multiselect(
+producto = st.sidebar.multiselect(
     "Filtrar por Producto:", 
     options=df["Producto"].unique(), 
    
 )
 
 # Aplicamos el filtro reactivo al DataFrame principal
-df_selection = df[df["Producto"].isin('Producto')]
+df_selection = df[df["Producto"].isin(producto)]
 
 
 if not df.empty:
