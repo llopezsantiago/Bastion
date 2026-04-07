@@ -42,6 +42,25 @@ def load_cloud_data(username):
 # Carga de datos
 df = load_cloud_data(st.session_state["username"])
 
+# Si el DataFrame resultante está totalmente vacío, detenemos la app
+if df.empty:
+    st.error("No hay datos disponibles para mostrar.")
+    st.stop()
+
+# 3. BARRA LATERAL (Panel de Control de Filtros)
+st.sidebar.header(f"Filtros de Cliente: {st.session_state['name']}")
+
+# Selector múltiple que detecta automáticamente las categorías presentes en el archivo
+categoria = st.sidebar.multiselect(
+    "Filtrar por Categoría:", 
+    options=df["Producto"].unique(), 
+    default=df["Producto"].unique() # Seleccionadas todas por defecto
+)
+
+# Aplicamos el filtro reactivo al DataFrame principal
+df_selection = df[df["Categoria"].isin(categoria)]
+
+
 if not df.empty:
     st.title(f"📊 Dashboard: {st.session_state['name']}")
     st.markdown("---")
