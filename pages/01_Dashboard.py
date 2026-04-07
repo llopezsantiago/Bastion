@@ -19,17 +19,23 @@ def load_cloud_data(username):
         response = supabase.storage.from_("datasets").download(path)
         df = pd.read_csv(io.BytesIO(response))
         
-        # Procesamiento básico
-        if 'Fecha' in df.columns:
-            df['Fecha'] = pd.to_datetime(df['Fecha'])
+        # Normalización de Fecha
+        date_col = 'Fecha y Hora' if 'Fecha y Hora' in df.columns else 'Fecha'
+        if date_col in df.columns:
+            df['Fecha'] = pd.to_datetime(df[date_col])
+
+        # Cálculo de Ventas
         if 'Cantidad' in df.columns and 'Precio Unitario' in df.columns:
             df['Ventas'] = df['Cantidad'] * df['Precio Unitario']
         
-        # Categorización (Personaliza según los productos del comercio)
-        product_map = {'Espresso': 'Café', 'Capuchino': 'Café', 'Brownie': 'Dulce'}
+        # Mapeo de Categorías
+        product_map = {
+            'Espresso': 'Cafetería', 'Capuchino': 'Cafetería', 'Café Latte': 'Cafetería',
+            'Brownie': 'Pastelería', 'Croissant': 'Pastelería', 'Galleta': 'Pastelería',
+            'Sandwich de Jamón y Queso': 'Salados', 'Jugo de Naranja': 'Bebidas Frías'
+            }
         if 'Producto' in df.columns:
             df['Categoria'] = df['Producto'].map(product_map).fillna('Otros')
-            
         return df
     except:
         return pd.DataFrame()
