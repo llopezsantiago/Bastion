@@ -61,7 +61,7 @@ producto = st.sidebar.multiselect(
 df_selection = df[df["Producto"].isin(producto)]
 
 
-if not df.empty:
+if not df_selection:
     st.title(f"📊 Dashboard: {st.session_state['name']}")
     st.markdown("---")
 
