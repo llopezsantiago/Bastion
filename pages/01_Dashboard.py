@@ -69,7 +69,7 @@ if not df_selection:
     col1, col2, col3 = st.columns(3)
     
     with col1:
-        total_ventas = df['Ventas'].sum() if 'Ventas' in df.columns else 0
+        total_ventas = df['Ventas'].sum() #if 'Ventas' in df.columns else 0
         st.metric("Ingresos Totales", f"${total_ventas:,.2f}")
         
     with col2:
