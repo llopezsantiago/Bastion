@@ -154,7 +154,7 @@ if not df_selection.empty:
     with fila_graficos_1[1]:
         st.subheader("🏆 Productos más Vendidos")
         if 'Producto' in df_selection.columns:
-            df_prod = df_selection.groupby('Producto')['Ventas'].sum().sort_values(ascending=False).reset_index()
+            df_prod = df_selection.groupby('Producto')['Ventas'].sum().sort_values(ascending=True).reset_index()
             fig_barras = px.bar(
                 df_prod, 
                 x='Ventas', 
