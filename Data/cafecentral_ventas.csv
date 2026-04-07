@@ -1,0 +1,2001 @@
+Fecha y Hora,Producto,Cantidad,Precio Unitario,Método de Pago
+2023-07-25 13:18:00.126091,Sandwich de Jamón y Queso,2,13.38,Tarjeta de Débito
+2023-09-20 15:28:53.201928,Muffin,1,4.07,Tarjeta de Crédito
+2023-08-15 20:05:57.178379,Chocolate Caliente,4,10.75,Efectivo
+2023-09-03 20:56:25.137250,Croissant,4,11.52,Efectivo
+2023-01-04 08:48:11.477848,Té Negro,3,7.21,Pago Móvil
+2023-05-30 02:48:44.087396,Té Verde,4,4.54,Tarjeta de Débito
+2023-08-24 11:07:44.026967,Café Latte,2,4.01,Pago Móvil
+2023-09-21 05:18:06.386176,Espresso,2,13.63,Efectivo
+2023-10-07 06:33:32.348955,Jugo de Naranja,1,5.02,Tarjeta de Débito
+2023-10-08 16:33:45.346391,Galleta,1,13.61,Tarjeta de Crédito
+2023-03-15 23:05:28.358045,Sandwich de Jamón y Queso,2,11.42,Efectivo
+2023-07-22 16:28:12.578616,Croissant,4,2.59,Tarjeta de Crédito
+2023-12-20 13:25:16.185922,Espresso,3,12.81,Efectivo
+2023-11-16 10:43:52.639358,Capuchino,4,6.93,Tarjeta de Crédito
+2023-02-01 22:38:03.817767,Muffin,2,9.59,Efectivo
+2023-11-01 10:01:55.791081,Espresso,2,13.61,Efectivo
+2023-05-16 20:46:46.378518,Capuchino,3,11.42,Efectivo
+2023-04-10 15:21:51.936343,Café Latte,2,3.13,Tarjeta de Crédito
+2023-08-11 10:01:46.121885,Croissant,2,12.01,Tarjeta de Débito
+2023-03-03 16:40:15.673163,Galleta,1,12.13,Efectivo
+2023-03-17 17:51:31.283894,Galleta,4,8.55,Efectivo
+2023-11-19 09:58:19.475321,Té Verde,2,2.5,Efectivo
+2023-11-03 07:28:20.411005,Café Americano,1,4.88,Efectivo
+2023-11-25 14:15:38.368502,Mocaccino,2,9.5,Tarjeta de Débito
+2023-12-16 17:50:56.914257,Té Verde,1,13.1,Tarjeta de Crédito
+2023-07-05 19:39:27.425061,Mocaccino,1,11.18,Pago Móvil
+2023-09-27 22:19:13.437076,Sandwich de Jamón y Queso,3,8.93,Tarjeta de Crédito
+2023-12-11 10:18:04.127303,Chocolate Caliente,4,4.45,Efectivo
+2023-03-31 21:13:30.178009,Croissant,1,14.38,Tarjeta de Crédito
+2023-01-05 21:52:42.255051,Café Americano,1,7.26,Efectivo
+2023-06-10 16:04:09.479206,Espresso,1,11.36,Pago Móvil
+2023-06-08 15:10:51.051168,Café Americano,1,13.04,Efectivo
+2023-09-03 05:16:34.949195,Café Americano,2,5.19,Tarjeta de Crédito
+2023-07-31 20:11:07.148718,Mocaccino,4,6.34,Pago Móvil
+2023-04-28 05:07:33.228996,Café Americano,4,4.9,Efectivo
+2023-09-30 00:40:08.067248,Café Americano,2,9.97,Pago Móvil
+2023-04-03 20:33:00.876997,Té Negro,3,5.6,Efectivo
+2023-09-05 14:28:19.010403,Chocolate Caliente,2,14.77,Efectivo
+2023-07-12 04:07:12.925449,Brownie,2,6.73,Efectivo
+2023-09-02 00:03:00.354805,Té Verde,4,2.82,Pago Móvil
+2023-10-08 10:37:35.809848,Café Americano,4,5.34,Pago Móvil
+2023-09-24 16:20:34.735559,Espresso,3,14.62,Pago Móvil
+2023-08-26 11:11:35.253137,Café Americano,4,14.7,Tarjeta de Débito
+2023-05-01 15:09:42.790719,Chocolate Caliente,2,10.65,Efectivo
+2023-09-08 14:48:25.527281,Sandwich de Jamón y Queso,2,11.98,Efectivo
+2023-01-16 02:54:09.053717,Té Negro,3,10.97,Tarjeta de Crédito
+2023-08-12 20:36:55.244695,Sandwich de Jamón y Queso,2,3.51,Efectivo
+2023-10-29 21:39:51.518387,Capuchino,3,10.99,Tarjeta de Crédito
+2023-03-25 12:51:53.611338,Sandwich de Jamón y Queso,3,9.42,Tarjeta de Crédito
+2023-05-20 09:24:18.001143,Brownie,2,7.15,Tarjeta de Crédito
+2023-05-25 08:13:38.154363,Espresso,4,10.22,Pago Móvil
+2023-05-17 19:26:39.142060,Café Americano,2,2.81,Tarjeta de Crédito
+2023-09-11 03:47:55.088328,Jugo de Naranja,1,2.84,Efectivo
+2023-03-04 18:50:03.716770,Jugo de Naranja,2,13.43,Tarjeta de Crédito
+2023-12-24 05:18:04.922814,Chocolate Caliente,1,6.07,Efectivo
+2023-10-01 16:05:26.527151,Mocaccino,3,10.22,Tarjeta de Débito
+2023-08-10 21:51:37.622744,Muffin,2,13.37,Pago Móvil
+2023-07-17 16:31:50.775897,Galleta,3,12.88,Tarjeta de Crédito
+2023-09-23 13:45:53.912384,Capuchino,1,10.59,Tarjeta de Crédito
+2023-07-01 11:12:21.885681,Jugo de Naranja,1,5.03,Tarjeta de Crédito
+2023-06-04 19:45:45.352324,Té Negro,4,7.91,Efectivo
+2023-08-30 18:30:50.709309,Té Negro,3,2.66,Pago Móvil
+2023-01-11 16:50:30.269011,Capuchino,2,8.51,Efectivo
+2023-03-04 04:27:48.098881,Espresso,3,10.06,Efectivo
+2023-11-18 12:23:59.017925,Mocaccino,1,11.75,Tarjeta de Débito
+2023-08-17 12:13:45.890283,Brownie,1,6.32,Tarjeta de Débito
+2023-01-14 16:04:10.749351,Café Americano,4,12.92,Efectivo
+2023-10-04 09:15:12.643508,Té Negro,3,14.39,Pago Móvil
+2023-05-02 04:33:55.243415,Muffin,3,14.51,Tarjeta de Crédito
+2023-06-23 02:45:44.005918,Té Verde,2,13.79,Tarjeta de Crédito
+2023-12-03 00:14:32.450610,Mocaccino,4,7.31,Pago Móvil
+2023-05-20 22:44:37.102738,Capuchino,1,4.01,Efectivo
+2023-06-28 03:34:29.463578,Mocaccino,2,6.14,Efectivo
+2023-01-22 03:33:59.830365,Jugo de Naranja,4,4.23,Efectivo
+2023-04-22 10:13:45.110671,Croissant,4,14.06,Tarjeta de Crédito
+2023-07-13 04:49:01.552620,Brownie,1,5.71,Pago Móvil
+2023-09-03 01:45:37.755618,Té Verde,4,11.67,Tarjeta de Débito
+2023-06-21 17:04:29.115415,Galleta,3,5.75,Pago Móvil
+2023-03-26 12:55:32.882278,Jugo de Naranja,2,10.47,Tarjeta de Crédito
+2023-07-10 23:02:30.397883,Jugo de Naranja,2,2.85,Tarjeta de Débito
+2023-02-26 16:13:07.693070,Capuchino,2,10.16,Efectivo
+2023-01-29 19:48:42.743808,Espresso,3,13.97,Tarjeta de Débito
+2023-08-14 16:46:01.272181,Mocaccino,1,13.16,Tarjeta de Crédito
+2023-03-08 09:50:59.611665,Sandwich de Jamón y Queso,2,5.77,Tarjeta de Débito
+2023-12-03 19:57:36.323880,Chocolate Caliente,1,7.44,Pago Móvil
+2023-05-01 05:41:33.870408,Sandwich de Jamón y Queso,4,14.66,Efectivo
+2023-04-04 02:26:43.771729,Brownie,4,12.5,Efectivo
+2023-02-19 09:27:09.483439,Café Latte,3,13.19,Pago Móvil
+2023-11-13 05:34:44.477445,Té Negro,1,7.25,Efectivo
+2023-05-23 03:48:34.616459,Jugo de Naranja,4,7.59,Efectivo
+2023-09-25 23:32:12.502450,Galleta,1,13.03,Tarjeta de Crédito
+2023-07-21 01:33:11.875065,Mocaccino,2,10.39,Tarjeta de Crédito
+2023-05-07 12:56:47.387359,Espresso,1,4.09,Efectivo
+2023-03-07 12:59:53.149570,Sandwich de Jamón y Queso,1,2.98,Efectivo
+2023-08-31 13:48:51.921864,Espresso,3,10.74,Efectivo
+2023-11-28 08:59:40.949930,Espresso,2,12.93,Tarjeta de Crédito
+2023-03-13 21:32:52.574635,Té Negro,1,7.81,Tarjeta de Crédito
+2023-02-22 09:44:55.915297,Brownie,1,11.76,Tarjeta de Crédito
+2023-04-24 18:47:21.237101,Espresso,2,5.83,Tarjeta de Crédito
+2023-04-22 10:00:55.716372,Sandwich de Jamón y Queso,2,6.13,Efectivo
+2023-11-02 11:27:24.590838,Espresso,3,10.27,Pago Móvil
+2023-10-18 09:20:25.169141,Sandwich de Jamón y Queso,2,8.3,Tarjeta de Crédito
+2023-10-27 13:47:07.725088,Brownie,2,9.77,Tarjeta de Crédito
+2023-05-01 17:33:09.516496,Té Verde,1,11.94,Pago Móvil
+2023-03-27 23:08:38.127267,Galleta,2,9.42,Tarjeta de Crédito
+2023-10-07 19:14:08.089311,Té Verde,4,4.25,Pago Móvil
+2023-01-06 19:05:05.542817,Té Negro,3,6.57,Pago Móvil
+2023-03-07 06:46:34.875400,Espresso,3,14.24,Efectivo
+2023-04-20 14:02:13.683221,Té Negro,1,11.74,Tarjeta de Crédito
+2023-06-04 11:41:24.615859,Brownie,3,7.68,Efectivo
+2023-03-12 13:07:53.384190,Espresso,4,5.21,Tarjeta de Crédito
+2023-06-04 08:38:32.162639,Té Negro,1,13.24,Pago Móvil
+2023-01-29 20:05:28.725490,Galleta,1,11.72,Efectivo
+2023-01-15 06:00:08.838085,Croissant,1,5.71,Efectivo
+2023-03-16 04:20:51.936676,Brownie,4,13.02,Tarjeta de Crédito
+2023-08-28 03:48:24.029306,Muffin,2,3.34,Efectivo
+2023-01-18 19:08:01.080908,Croissant,1,13.91,Efectivo
+2023-11-30 22:46:59.727497,Café Latte,1,12.56,Tarjeta de Débito
+2023-04-18 21:46:16.159663,Espresso,2,3.1,Efectivo
+2023-01-05 13:57:16.981575,Muffin,2,8.39,Efectivo
+2023-03-04 17:51:58.149666,Capuchino,1,12.99,Pago Móvil
+2023-04-15 05:34:05.205868,Muffin,1,13.08,Efectivo
+2023-07-06 19:24:24.484380,Croissant,3,5.78,Tarjeta de Crédito
+2023-01-10 23:05:51.294658,Jugo de Naranja,3,3.91,Tarjeta de Débito
+2023-10-24 22:01:03.821120,Capuchino,2,6.51,Pago Móvil
+2023-05-30 08:32:08.923218,Capuchino,3,9.29,Efectivo
+2023-11-27 08:25:13.465221,Espresso,1,4.54,Tarjeta de Débito
+2023-01-04 03:29:38.388511,Mocaccino,1,4.56,Pago Móvil
+2023-11-19 22:42:28.745513,Croissant,3,8.53,Tarjeta de Crédito
+2023-07-09 05:27:17.707381,Croissant,4,6.23,Tarjeta de Crédito
+2023-12-27 08:40:04.913496,Sandwich de Jamón y Queso,2,13.49,Efectivo
+2023-12-22 13:08:08.452212,Brownie,2,6.36,Pago Móvil
+2023-02-23 11:19:25.693742,Té Negro,1,14.14,Efectivo
+2023-03-02 06:21:17.431493,Café Latte,2,12.54,Tarjeta de Débito
+2023-04-11 22:06:17.815000,Té Negro,4,6.94,Efectivo
+2023-04-11 09:09:51.578910,Sandwich de Jamón y Queso,1,5.03,Pago Móvil
+2023-05-24 17:49:13.731566,Café Latte,3,11.75,Efectivo
+2023-05-02 23:39:51.366850,Chocolate Caliente,2,10.43,Pago Móvil
+2023-09-12 13:54:52.884415,Chocolate Caliente,4,8.6,Tarjeta de Crédito
+2023-01-07 23:46:38.921499,Chocolate Caliente,2,12.92,Tarjeta de Crédito
+2023-06-29 09:04:44.022066,Muffin,3,11.44,Tarjeta de Crédito
+2023-10-29 16:13:25.476718,Sandwich de Jamón y Queso,1,3.31,Pago Móvil
+2023-09-18 07:48:53.179031,Brownie,2,9.52,Tarjeta de Débito
+2023-08-29 15:54:15.127582,Jugo de Naranja,2,6.5,Tarjeta de Débito
+2023-03-24 20:54:45.188431,Café Latte,4,10.38,Pago Móvil
+2023-10-10 06:33:09.822397,Café Americano,2,8.17,Pago Móvil
+2023-01-06 14:38:02.673331,Café Americano,4,9.14,Tarjeta de Crédito
+2023-07-20 17:42:54.940460,Capuchino,3,11.94,Pago Móvil
+2023-07-10 20:31:32.194892,Galleta,4,8.12,Pago Móvil
+2023-12-20 05:13:28.598533,Croissant,3,11.02,Efectivo
+2023-01-30 06:05:42.613654,Croissant,1,4.33,Pago Móvil
+2023-11-14 04:14:33.209716,Espresso,1,7.72,Tarjeta de Débito
+2023-11-20 16:20:40.875355,Mocaccino,1,6.92,Pago Móvil
+2023-06-26 15:50:53.042152,Café Latte,2,4.31,Pago Móvil
+2023-05-23 10:49:05.592690,Té Verde,2,10.2,Pago Móvil
+2023-11-04 14:45:58.379320,Jugo de Naranja,4,4.59,Pago Móvil
+2023-12-13 19:50:24.991637,Jugo de Naranja,2,12.69,Tarjeta de Crédito
+2023-03-01 06:57:02.310888,Sandwich de Jamón y Queso,2,5.1,Tarjeta de Débito
+2023-10-18 12:53:09.742342,Brownie,2,11.24,Tarjeta de Débito
+2023-10-20 16:37:00.855031,Galleta,4,6.23,Tarjeta de Crédito
+2023-12-09 16:09:11.537378,Espresso,4,2.57,Tarjeta de Crédito
+2023-11-12 06:43:04.215073,Capuchino,2,9.25,Efectivo
+2023-01-27 07:25:58.011784,Galleta,3,14.28,Efectivo
+2023-12-13 04:46:36.801762,Chocolate Caliente,3,12.21,Pago Móvil
+2023-06-10 06:02:40.141335,Jugo de Naranja,1,6.78,Efectivo
+2023-05-23 06:44:06.054539,Chocolate Caliente,2,12.38,Tarjeta de Crédito
+2023-08-20 00:58:19.646500,Espresso,2,8.56,Pago Móvil
+2023-02-25 12:57:22.817343,Mocaccino,4,9.97,Pago Móvil
+2023-08-18 07:19:58.920035,Sandwich de Jamón y Queso,4,6.62,Tarjeta de Débito
+2023-09-12 23:49:56.592704,Té Negro,2,8.91,Tarjeta de Débito
+2023-01-13 01:28:58.915762,Mocaccino,4,7.12,Pago Móvil
+2023-08-24 01:43:48.967278,Jugo de Naranja,4,14.47,Efectivo
+2023-02-17 01:07:34.737237,Espresso,4,12.38,Pago Móvil
+2023-11-21 04:45:51.378938,Café Latte,3,14.03,Tarjeta de Crédito
+2023-04-20 01:44:12.014257,Capuchino,3,13.32,Tarjeta de Crédito
+2023-12-04 23:39:49.334305,Capuchino,4,8.84,Tarjeta de Débito
+2023-01-28 09:07:17.873026,Brownie,2,9.05,Tarjeta de Crédito
+2023-03-17 04:47:44.851336,Jugo de Naranja,1,6.89,Pago Móvil
+2023-11-19 08:56:02.020011,Café Americano,4,3.79,Pago Móvil
+2023-11-03 05:32:08.250151,Mocaccino,2,14.57,Pago Móvil
+2023-12-08 07:05:34.623476,Galleta,4,5.06,Pago Móvil
+2023-11-13 12:14:51.280683,Espresso,3,3.46,Tarjeta de Crédito
+2023-04-12 22:27:47.528919,Té Negro,4,3.74,Pago Móvil
+2023-08-09 19:27:34.760630,Café Americano,1,9.23,Tarjeta de Débito
+2023-08-17 12:48:24.490573,Brownie,2,6.96,Pago Móvil
+2023-04-05 18:21:55.543231,Croissant,3,9.03,Efectivo
+2023-08-14 05:46:41.533600,Chocolate Caliente,2,13.77,Tarjeta de Crédito
+2023-02-09 01:19:51.714099,Mocaccino,2,8.62,Efectivo
+2023-12-22 04:26:33.043847,Brownie,4,14.25,Pago Móvil
+2023-03-19 08:16:38.940852,Croissant,2,9.04,Efectivo
+2023-09-06 07:55:35.340467,Capuchino,1,10.83,Efectivo
+2023-06-13 19:20:56.229916,Café Americano,2,10.99,Tarjeta de Débito
+2023-08-27 15:08:39.344361,Sandwich de Jamón y Queso,3,4.06,Tarjeta de Débito
+2023-10-27 01:58:52.434350,Té Negro,1,5.02,Pago Móvil
+2023-05-26 15:42:12.425029,Muffin,1,6.63,Efectivo
+2023-02-18 14:55:48.571284,Mocaccino,2,6.78,Tarjeta de Débito
+2023-10-16 21:06:14.083592,Chocolate Caliente,4,8.8,Tarjeta de Débito
+2023-09-12 01:34:35.293030,Jugo de Naranja,2,3.94,Pago Móvil
+2023-05-10 23:15:11.270459,Café Latte,1,4.68,Efectivo
+2023-05-15 06:54:27.357349,Jugo de Naranja,2,7.55,Pago Móvil
+2023-03-01 08:09:27.725857,Mocaccino,1,9.56,Tarjeta de Débito
+2023-03-29 11:22:43.199697,Té Verde,2,3.16,Tarjeta de Crédito
+2023-07-25 08:09:18.280724,Croissant,4,9.39,Tarjeta de Crédito
+2023-04-26 15:20:00.197857,Té Verde,4,11.95,Tarjeta de Crédito
+2023-07-06 23:33:53.041061,Brownie,3,13.17,Tarjeta de Crédito
+2023-10-08 04:45:03.986137,Muffin,4,3.91,Pago Móvil
+2023-03-23 11:20:31.771405,Sandwich de Jamón y Queso,1,4.02,Tarjeta de Crédito
+2023-09-20 05:01:03.806529,Brownie,3,9.74,Pago Móvil
+2023-01-02 19:09:56.698952,Brownie,1,7.6,Tarjeta de Crédito
+2023-02-15 15:26:40.809019,Té Negro,4,14.47,Tarjeta de Débito
+2023-02-02 10:53:29.134433,Brownie,1,2.94,Efectivo
+2023-07-18 12:00:23.867768,Espresso,1,8.44,Tarjeta de Débito
+2023-07-28 11:35:52.901214,Café Latte,1,5.66,Efectivo
+2023-09-28 03:02:32.210768,Café Latte,2,11.77,Tarjeta de Crédito
+2023-03-26 19:28:57.685375,Mocaccino,2,8.67,Pago Móvil
+2023-10-25 08:41:09.933029,Brownie,3,5.98,Tarjeta de Débito
+2023-05-26 20:42:41.053548,Sandwich de Jamón y Queso,2,8.53,Pago Móvil
+2023-09-04 08:39:18.957876,Espresso,4,14.87,Pago Móvil
+2023-11-28 08:19:04.378247,Té Verde,1,11.05,Tarjeta de Débito
+2023-04-08 18:19:01.224415,Galleta,4,3.72,Tarjeta de Crédito
+2023-07-15 22:37:39.952843,Espresso,3,10.6,Efectivo
+2023-02-02 22:08:24.125149,Espresso,1,11.16,Tarjeta de Crédito
+2023-02-22 12:13:40.290882,Té Negro,1,2.76,Tarjeta de Crédito
+2023-06-13 16:09:32.706177,Sandwich de Jamón y Queso,4,4.07,Pago Móvil
+2023-02-26 07:34:45.806087,Capuchino,1,2.87,Tarjeta de Crédito
+2023-06-02 09:16:20.585517,Croissant,3,10.74,Efectivo
+2023-04-23 07:36:35.220226,Muffin,2,7.21,Pago Móvil
+2023-05-24 15:31:27.425537,Café Americano,1,12.13,Tarjeta de Crédito
+2023-05-07 12:51:04.427645,Muffin,3,9.82,Tarjeta de Crédito
+2023-10-03 14:30:53.965505,Chocolate Caliente,1,5.0,Tarjeta de Débito
+2023-08-16 21:33:15.993486,Galleta,4,8.81,Tarjeta de Crédito
+2023-04-27 20:35:47.263117,Muffin,4,9.51,Pago Móvil
+2023-03-20 12:16:10.388881,Té Negro,1,10.1,Efectivo
+2023-12-07 05:23:03.474077,Capuchino,4,12.67,Tarjeta de Débito
+2023-11-02 03:09:42.454483,Sandwich de Jamón y Queso,4,4.37,Pago Móvil
+2023-12-07 19:52:28.757777,Café Americano,2,6.42,Pago Móvil
+2023-06-17 01:40:24.914590,Mocaccino,3,14.85,Efectivo
+2023-02-03 01:53:16.417278,Café Latte,3,14.55,Tarjeta de Débito
+2023-10-17 05:44:42.972617,Té Verde,2,2.72,Efectivo
+2023-12-21 19:49:18.637147,Espresso,3,9.48,Tarjeta de Crédito
+2023-02-23 00:55:00.395142,Jugo de Naranja,3,5.4,Efectivo
+2023-04-19 14:08:14.445929,Croissant,1,5.78,Efectivo
+2023-04-05 18:36:58.049162,Capuchino,4,14.96,Pago Móvil
+2023-11-09 16:31:58.977265,Galleta,2,11.02,Pago Móvil
+2023-06-26 05:06:17.599494,Muffin,4,12.68,Tarjeta de Crédito
+2023-07-02 14:52:58.205853,Croissant,4,12.04,Efectivo
+2023-12-14 15:54:32.163036,Galleta,4,4.08,Pago Móvil
+2023-07-06 14:51:08.676710,Mocaccino,4,2.91,Tarjeta de Crédito
+2023-03-08 10:27:32.205526,Muffin,1,9.94,Pago Móvil
+2023-07-29 05:00:58.891885,Mocaccino,1,11.57,Tarjeta de Crédito
+2023-04-24 14:50:13.733991,Té Verde,3,11.13,Tarjeta de Crédito
+2023-04-23 16:23:05.191288,Café Latte,4,5.55,Efectivo
+2023-07-27 03:37:52.206942,Té Verde,3,8.19,Pago Móvil
+2023-05-06 07:43:25.244689,Mocaccino,3,13.33,Efectivo
+2023-10-25 00:43:58.776625,Muffin,1,13.53,Pago Móvil
+2023-04-02 08:50:23.639583,Café Latte,1,11.23,Tarjeta de Crédito
+2023-09-21 01:20:29.078559,Café Latte,1,4.24,Pago Móvil
+2023-06-10 19:57:06.659721,Jugo de Naranja,1,4.61,Tarjeta de Crédito
+2023-09-05 22:32:48.005869,Mocaccino,3,10.2,Tarjeta de Crédito
+2023-06-07 23:40:43.453247,Muffin,2,11.92,Efectivo
+2023-06-25 02:36:15.740126,Mocaccino,4,10.79,Pago Móvil
+2023-06-22 23:05:22.096117,Brownie,1,6.28,Tarjeta de Débito
+2023-08-09 08:32:59.372372,Chocolate Caliente,3,14.68,Pago Móvil
+2023-10-26 04:07:12.548245,Croissant,2,5.67,Tarjeta de Débito
+2023-11-12 11:36:44.948911,Té Verde,4,13.26,Tarjeta de Crédito
+2023-03-31 01:26:29.357845,Brownie,2,5.43,Pago Móvil
+2023-06-02 23:02:59.179320,Croissant,4,5.35,Pago Móvil
+2023-11-29 17:13:23.270234,Mocaccino,1,12.25,Tarjeta de Crédito
+2023-03-09 07:41:52.779702,Chocolate Caliente,4,12.66,Tarjeta de Débito
+2023-10-26 12:31:14.897434,Café Latte,2,2.58,Efectivo
+2023-03-12 01:54:12.757697,Sandwich de Jamón y Queso,2,6.67,Pago Móvil
+2023-07-17 11:31:35.936054,Té Verde,2,13.02,Efectivo
+2023-11-13 15:07:32.869267,Brownie,1,5.21,Efectivo
+2023-04-20 09:58:31.762168,Mocaccino,2,11.6,Tarjeta de Crédito
+2023-05-26 08:39:02.316817,Galleta,3,4.58,Efectivo
+2023-08-31 05:37:09.748403,Sandwich de Jamón y Queso,2,9.25,Tarjeta de Crédito
+2023-06-27 22:16:44.071504,Brownie,1,11.25,Tarjeta de Débito
+2023-12-23 22:32:09.173919,Jugo de Naranja,1,7.03,Tarjeta de Crédito
+2023-12-02 23:20:59.587066,Croissant,4,12.01,Tarjeta de Crédito
+2023-11-27 05:58:49.585495,Capuchino,1,10.36,Pago Móvil
+2023-04-22 17:09:43.594394,Chocolate Caliente,1,6.54,Efectivo
+2023-04-29 09:27:09.285260,Croissant,3,13.76,Efectivo
+2023-08-12 04:44:07.458472,Brownie,1,12.34,Pago Móvil
+2023-04-22 12:32:25.868145,Café Americano,1,10.94,Pago Móvil
+2023-05-29 15:05:43.602490,Galleta,1,5.48,Tarjeta de Débito
+2023-01-10 18:17:04.346469,Café Americano,3,14.68,Pago Móvil
+2023-04-10 03:54:33.330328,Té Verde,3,2.83,Tarjeta de Crédito
+2023-05-24 23:24:08.993677,Jugo de Naranja,1,6.94,Tarjeta de Débito
+2023-02-26 02:16:30.769099,Espresso,2,5.07,Tarjeta de Crédito
+2023-08-31 07:39:13.323976,Té Negro,1,5.13,Tarjeta de Crédito
+2023-09-28 01:30:39.571288,Chocolate Caliente,2,10.62,Efectivo
+2023-04-18 07:10:27.651575,Té Negro,4,10.24,Tarjeta de Crédito
+2023-11-01 03:00:46.965034,Espresso,2,7.59,Tarjeta de Crédito
+2023-04-29 21:31:53.154939,Croissant,2,7.94,Pago Móvil
+2023-11-07 03:54:45.378550,Té Verde,2,5.14,Tarjeta de Débito
+2023-02-09 08:09:56.940973,Espresso,1,6.76,Tarjeta de Débito
+2023-07-18 05:45:21.875151,Galleta,4,13.09,Tarjeta de Débito
+2023-01-25 12:09:40.428858,Muffin,3,7.23,Tarjeta de Crédito
+2023-12-03 05:36:27.213108,Jugo de Naranja,2,12.33,Tarjeta de Débito
+2023-04-20 11:17:59.513825,Mocaccino,1,9.2,Tarjeta de Débito
+2023-05-25 05:43:57.244478,Capuchino,4,5.1,Tarjeta de Débito
+2023-11-04 12:58:30.856270,Croissant,4,14.62,Efectivo
+2023-02-25 10:27:52.268037,Jugo de Naranja,1,12.85,Tarjeta de Débito
+2023-08-17 01:30:48.656363,Jugo de Naranja,1,3.59,Efectivo
+2023-12-08 08:58:16.016831,Jugo de Naranja,2,4.79,Tarjeta de Crédito
+2023-12-08 21:24:07.999316,Muffin,3,13.13,Tarjeta de Débito
+2023-08-09 11:14:18.494595,Mocaccino,4,6.51,Pago Móvil
+2023-11-09 00:44:58.550778,Capuchino,3,13.67,Tarjeta de Crédito
+2023-05-28 05:23:04.472809,Espresso,4,8.85,Pago Móvil
+2023-11-05 19:46:45.068987,Mocaccino,3,8.87,Tarjeta de Débito
+2023-08-21 02:05:44.139164,Chocolate Caliente,1,9.42,Tarjeta de Crédito
+2023-02-15 00:03:49.237363,Espresso,2,7.87,Tarjeta de Débito
+2023-09-18 12:01:54.566566,Chocolate Caliente,2,6.01,Efectivo
+2023-06-23 20:00:07.879317,Té Negro,1,12.87,Tarjeta de Crédito
+2023-07-16 03:41:56.204355,Chocolate Caliente,2,5.39,Tarjeta de Débito
+2023-04-06 12:18:23.098024,Té Negro,3,5.04,Pago Móvil
+2023-06-11 07:43:33.695872,Capuchino,1,7.1,Tarjeta de Crédito
+2023-01-15 20:46:37.593695,Té Negro,1,11.34,Pago Móvil
+2023-07-21 05:42:26.594046,Café Americano,3,8.37,Efectivo
+2023-01-27 04:59:50.180919,Espresso,4,2.92,Tarjeta de Débito
+2023-10-12 04:07:25.598446,Té Verde,4,12.69,Tarjeta de Débito
+2023-02-04 23:43:09.203632,Té Verde,3,9.76,Pago Móvil
+2023-09-23 18:08:23.648386,Sandwich de Jamón y Queso,3,11.15,Pago Móvil
+2023-01-06 13:33:47.019925,Jugo de Naranja,1,2.99,Pago Móvil
+2023-07-12 19:27:58.561646,Espresso,2,11.13,Pago Móvil
+2023-06-25 22:01:25.672312,Chocolate Caliente,1,8.37,Pago Móvil
+2023-07-01 00:51:55.861413,Brownie,2,3.99,Tarjeta de Débito
+2023-08-27 07:09:16.334762,Capuchino,3,9.31,Tarjeta de Débito
+2023-08-05 00:12:03.839608,Café Americano,1,10.84,Pago Móvil
+2023-07-19 05:40:45.235365,Brownie,2,4.7,Tarjeta de Débito
+2023-09-08 21:23:12.189831,Chocolate Caliente,1,8.97,Tarjeta de Débito
+2023-11-16 16:09:00.071101,Café Latte,1,5.87,Tarjeta de Débito
+2023-04-25 07:58:12.076107,Café Americano,1,14.07,Pago Móvil
+2023-12-20 23:45:29.210238,Croissant,3,10.26,Pago Móvil
+2023-01-30 15:07:04.470282,Muffin,2,5.8,Efectivo
+2023-09-27 22:36:26.337783,Café Americano,4,10.86,Tarjeta de Crédito
+2023-08-30 05:16:12.442030,Jugo de Naranja,3,10.99,Tarjeta de Crédito
+2023-04-19 22:11:15.714859,Muffin,2,7.69,Tarjeta de Crédito
+2023-08-14 06:45:12.639070,Brownie,3,8.74,Tarjeta de Crédito
+2023-12-17 15:32:21.021968,Té Verde,2,11.3,Tarjeta de Crédito
+2023-03-09 15:13:00.059829,Sandwich de Jamón y Queso,3,11.43,Efectivo
+2023-12-24 07:11:30.987359,Café Americano,3,6.44,Efectivo
+2023-08-26 16:10:57.792708,Té Negro,2,8.09,Efectivo
+2023-09-22 17:15:28.213799,Jugo de Naranja,4,9.37,Tarjeta de Crédito
+2023-03-01 19:40:36.847016,Galleta,3,6.72,Tarjeta de Crédito
+2023-07-03 06:53:13.874093,Croissant,2,3.97,Tarjeta de Débito
+2023-10-12 19:58:25.209090,Galleta,4,10.85,Efectivo
+2023-12-15 12:48:12.150366,Café Americano,4,14.75,Efectivo
+2023-01-16 08:43:29.166464,Capuchino,3,4.56,Pago Móvil
+2023-09-02 09:52:44.687268,Café Americano,2,8.88,Tarjeta de Débito
+2024-01-01 04:52:27.799420,Café Latte,4,10.45,Pago Móvil
+2023-10-23 15:57:37.660239,Café Latte,4,6.37,Tarjeta de Débito
+2023-04-25 11:47:20.554927,Capuchino,3,6.14,Tarjeta de Débito
+2023-04-21 18:36:14.319046,Mocaccino,2,13.06,Tarjeta de Crédito
+2023-10-19 06:07:28.660892,Café Americano,3,7.31,Pago Móvil
+2023-11-11 02:41:33.491598,Café Americano,1,12.03,Tarjeta de Débito
+2023-12-05 04:10:10.540846,Café Americano,3,10.38,Tarjeta de Crédito
+2023-01-19 12:23:44.428178,Croissant,3,3.3,Pago Móvil
+2023-08-03 22:24:22.279805,Muffin,3,5.46,Efectivo
+2023-09-09 12:07:04.442654,Capuchino,1,13.65,Pago Móvil
+2023-12-09 16:37:45.928116,Té Verde,3,10.79,Efectivo
+2023-11-23 21:20:03.591825,Té Verde,3,9.6,Tarjeta de Crédito
+2023-12-05 15:54:20.606081,Mocaccino,4,14.17,Efectivo
+2023-11-13 09:00:44.946415,Muffin,1,14.36,Tarjeta de Crédito
+2023-10-28 22:47:50.342486,Chocolate Caliente,1,4.07,Pago Móvil
+2023-06-30 03:31:32.931577,Café Latte,1,14.26,Efectivo
+2023-05-24 18:40:23.046497,Jugo de Naranja,4,12.34,Efectivo
+2023-08-09 06:59:43.961968,Capuchino,2,4.69,Tarjeta de Crédito
+2023-11-05 12:15:20.542200,Capuchino,2,11.37,Tarjeta de Crédito
+2023-06-21 22:51:17.781096,Café Latte,3,8.09,Pago Móvil
+2023-08-26 00:49:05.404417,Muffin,4,9.81,Tarjeta de Crédito
+2023-06-17 22:02:10.849544,Mocaccino,1,3.75,Efectivo
+2023-01-05 07:26:22.199111,Sandwich de Jamón y Queso,3,4.5,Pago Móvil
+2023-02-21 02:02:07.760811,Té Negro,2,11.34,Tarjeta de Débito
+2023-12-28 17:00:06.498857,Café Americano,2,9.71,Tarjeta de Crédito
+2023-07-13 23:53:54.470070,Café Latte,2,12.99,Pago Móvil
+2023-03-17 09:01:52.415073,Croissant,2,14.21,Pago Móvil
+2023-04-04 09:38:29.001179,Brownie,3,11.08,Efectivo
+2023-03-13 00:49:38.252614,Té Negro,3,7.62,Tarjeta de Débito
+2023-07-20 04:42:58.354418,Croissant,3,4.6,Efectivo
+2023-09-18 10:42:41.406899,Café Latte,3,11.31,Efectivo
+2023-12-16 01:50:06.706571,Chocolate Caliente,4,12.86,Tarjeta de Débito
+2023-08-05 02:30:58.725454,Té Verde,2,8.99,Tarjeta de Débito
+2023-03-15 16:21:49.964328,Té Verde,4,9.36,Efectivo
+2023-11-29 15:53:37.052640,Brownie,1,8.18,Tarjeta de Crédito
+2023-01-04 06:13:13.692986,Galleta,3,4.62,Tarjeta de Crédito
+2023-11-20 10:34:24.703431,Croissant,4,6.67,Tarjeta de Débito
+2023-10-06 08:53:01.456540,Café Latte,3,7.44,Tarjeta de Débito
+2023-10-04 23:20:04.348468,Capuchino,3,6.09,Efectivo
+2023-08-28 14:50:10.947929,Mocaccino,2,7.9,Tarjeta de Débito
+2023-12-27 21:37:05.464923,Mocaccino,4,12.94,Tarjeta de Débito
+2023-11-04 13:19:44.215804,Jugo de Naranja,4,13.44,Tarjeta de Débito
+2023-11-01 22:23:32.053617,Espresso,1,11.89,Efectivo
+2023-12-23 11:14:18.340516,Croissant,4,2.86,Tarjeta de Crédito
+2023-04-30 04:24:43.497064,Chocolate Caliente,2,13.99,Tarjeta de Crédito
+2023-02-25 11:10:26.121664,Café Latte,2,12.78,Efectivo
+2023-03-20 15:40:43.366992,Brownie,1,12.63,Efectivo
+2023-02-25 08:31:46.184314,Chocolate Caliente,3,2.51,Efectivo
+2023-08-18 14:41:28.159034,Croissant,2,11.19,Pago Móvil
+2023-10-08 08:22:03.632060,Té Negro,2,3.08,Efectivo
+2023-01-01 22:36:07.899246,Café Americano,1,8.7,Efectivo
+2023-11-19 15:22:06.739119,Café Latte,2,13.95,Efectivo
+2023-03-17 20:39:11.427892,Café Latte,4,6.94,Pago Móvil
+2023-10-19 22:37:13.176556,Muffin,3,3.46,Tarjeta de Débito
+2023-07-19 22:37:09.309248,Espresso,4,4.3,Tarjeta de Crédito
+2023-02-08 18:47:05.365712,Chocolate Caliente,3,7.55,Pago Móvil
+2023-06-19 10:55:31.858165,Brownie,4,7.06,Tarjeta de Crédito
+2023-07-18 21:27:12.546784,Croissant,4,3.17,Pago Móvil
+2023-02-12 14:37:12.454295,Sandwich de Jamón y Queso,4,3.29,Tarjeta de Débito
+2023-07-28 10:37:00.779634,Croissant,4,4.02,Tarjeta de Crédito
+2023-12-08 17:08:49.105476,Espresso,1,11.44,Efectivo
+2023-05-10 20:02:41.798830,Mocaccino,4,8.86,Tarjeta de Crédito
+2023-04-18 07:27:16.035133,Muffin,3,8.67,Tarjeta de Crédito
+2023-07-27 07:04:06.378867,Café Americano,2,14.69,Efectivo
+2023-01-19 21:33:43.552415,Brownie,3,6.19,Efectivo
+2023-08-21 10:39:19.101676,Café Latte,2,11.45,Tarjeta de Débito
+2023-08-05 11:37:17.767700,Espresso,1,5.28,Efectivo
+2023-08-07 20:09:00.086114,Té Negro,2,7.57,Efectivo
+2023-07-05 17:37:57.713295,Té Verde,4,7.39,Efectivo
+2023-05-16 17:41:28.522494,Capuchino,2,13.95,Efectivo
+2023-01-21 04:48:38.184040,Brownie,4,3.35,Efectivo
+2023-07-08 12:37:59.970790,Café Latte,3,3.08,Tarjeta de Débito
+2023-05-05 10:31:00.459876,Brownie,4,3.92,Tarjeta de Débito
+2023-09-21 13:36:49.285653,Espresso,1,13.98,Efectivo
+2023-02-12 01:00:30.410835,Chocolate Caliente,2,10.26,Tarjeta de Crédito
+2023-07-30 02:37:00.264590,Croissant,3,4.2,Tarjeta de Crédito
+2023-04-12 21:06:12.993617,Croissant,2,8.24,Efectivo
+2023-04-17 19:24:33.965592,Croissant,2,10.98,Pago Móvil
+2023-09-16 19:52:14.398193,Galleta,4,12.21,Tarjeta de Crédito
+2023-12-01 00:30:09.618602,Croissant,4,6.23,Tarjeta de Crédito
+2023-05-10 19:45:27.862031,Café Americano,3,14.4,Efectivo
+2023-05-23 16:36:41.774146,Chocolate Caliente,4,10.54,Efectivo
+2023-11-15 09:27:36.850175,Muffin,2,11.55,Pago Móvil
+2023-11-09 00:46:00.399993,Brownie,2,14.39,Efectivo
+2023-08-01 07:10:35.611329,Té Verde,4,4.07,Tarjeta de Crédito
+2023-08-03 19:47:20.101568,Croissant,1,10.63,Pago Móvil
+2023-05-08 01:49:14.153640,Té Negro,3,10.79,Tarjeta de Débito
+2023-04-12 11:51:25.488125,Croissant,4,13.18,Tarjeta de Débito
+2023-11-14 15:05:15.599146,Café Latte,3,3.57,Pago Móvil
+2023-11-05 13:19:45.162562,Brownie,3,11.06,Efectivo
+2023-06-25 23:51:18.147487,Café Americano,3,10.48,Tarjeta de Débito
+2023-07-26 22:08:41.393069,Jugo de Naranja,3,7.4,Pago Móvil
+2023-02-05 00:33:42.032025,Sandwich de Jamón y Queso,1,13.94,Pago Móvil
+2023-03-30 11:38:00.248593,Té Negro,1,11.4,Tarjeta de Crédito
+2023-01-14 17:19:20.463663,Té Negro,3,2.91,Pago Móvil
+2023-12-16 15:43:02.002132,Brownie,1,5.61,Tarjeta de Crédito
+2023-10-11 13:54:56.625886,Croissant,1,7.13,Tarjeta de Crédito
+2023-07-18 13:55:19.465991,Galleta,2,8.37,Pago Móvil
+2023-02-07 22:01:18.471436,Té Verde,2,13.33,Efectivo
+2023-07-03 16:03:44.383639,Capuchino,4,13.08,Tarjeta de Crédito
+2023-06-09 06:18:42.874436,Brownie,3,14.7,Efectivo
+2023-03-02 12:54:05.993502,Café Latte,4,9.36,Efectivo
+2023-09-08 06:09:08.819870,Espresso,1,13.67,Efectivo
+2023-03-17 00:27:23.556885,Brownie,3,9.52,Tarjeta de Crédito
+2023-11-27 09:54:42.923809,Café Latte,2,7.89,Efectivo
+2023-05-20 07:54:13.323014,Café Americano,4,2.97,Pago Móvil
+2023-02-07 01:06:53.268900,Sandwich de Jamón y Queso,2,4.85,Tarjeta de Crédito
+2023-01-15 09:56:21.494422,Chocolate Caliente,4,8.99,Efectivo
+2023-10-23 02:59:17.945647,Mocaccino,3,4.66,Efectivo
+2023-08-08 18:38:44.029964,Sandwich de Jamón y Queso,4,7.46,Pago Móvil
+2023-09-01 13:02:59.826419,Galleta,4,4.5,Efectivo
+2023-05-20 08:18:51.686067,Té Verde,3,13.18,Efectivo
+2023-12-27 09:23:57.753003,Té Negro,1,10.88,Efectivo
+2023-01-08 18:58:43.940237,Espresso,4,13.07,Tarjeta de Débito
+2023-05-28 18:05:31.519926,Café Latte,4,2.53,Tarjeta de Débito
+2023-02-27 14:42:07.129167,Café Americano,1,5.43,Efectivo
+2023-07-13 11:14:38.357907,Té Verde,4,12.0,Pago Móvil
+2023-02-14 10:37:03.923823,Chocolate Caliente,4,5.37,Tarjeta de Crédito
+2023-01-10 15:30:04.589409,Galleta,3,13.45,Efectivo
+2023-01-30 17:40:15.253211,Croissant,1,5.83,Pago Móvil
+2023-10-18 15:32:03.689025,Galleta,2,3.56,Efectivo
+2023-04-22 18:16:40.418507,Café Americano,4,7.05,Tarjeta de Débito
+2023-05-16 00:40:23.324977,Croissant,4,14.08,Efectivo
+2023-02-17 13:20:49.039051,Espresso,2,8.81,Efectivo
+2023-09-21 14:29:48.983831,Capuchino,4,4.88,Tarjeta de Débito
+2023-12-27 00:28:14.684076,Chocolate Caliente,2,13.21,Tarjeta de Débito
+2023-05-05 23:45:53.549720,Croissant,4,6.43,Tarjeta de Débito
+2023-02-03 14:09:38.983041,Galleta,4,9.44,Tarjeta de Débito
+2023-06-04 13:27:16.843503,Brownie,2,3.34,Tarjeta de Crédito
+2023-02-17 23:41:23.946763,Galleta,2,4.66,Pago Móvil
+2023-05-14 05:44:46.560066,Té Verde,3,6.92,Tarjeta de Crédito
+2023-01-17 00:15:25.798840,Jugo de Naranja,1,8.1,Efectivo
+2023-03-20 13:40:55.425847,Brownie,2,8.63,Efectivo
+2023-05-23 11:19:55.311511,Sandwich de Jamón y Queso,4,8.07,Pago Móvil
+2023-07-25 07:22:42.549709,Capuchino,2,6.38,Tarjeta de Crédito
+2023-02-26 20:22:01.497433,Café Latte,2,2.66,Pago Móvil
+2023-12-16 19:57:29.484591,Sandwich de Jamón y Queso,4,7.96,Tarjeta de Crédito
+2023-11-15 13:59:58.814576,Muffin,4,8.66,Tarjeta de Débito
+2023-03-01 10:55:10.101887,Jugo de Naranja,3,8.3,Pago Móvil
+2023-03-05 15:10:14.197303,Café Latte,4,4.09,Tarjeta de Crédito
+2023-03-18 21:37:38.056067,Té Negro,3,2.52,Pago Móvil
+2023-09-16 13:14:36.967218,Chocolate Caliente,3,13.41,Pago Móvil
+2023-08-20 03:03:54.534915,Sandwich de Jamón y Queso,4,10.56,Pago Móvil
+2023-09-03 13:06:06.360294,Café Latte,1,7.91,Pago Móvil
+2023-01-10 01:35:19.787387,Brownie,1,13.25,Pago Móvil
+2023-12-30 15:19:20.527711,Chocolate Caliente,2,13.76,Pago Móvil
+2023-03-22 11:05:48.335350,Capuchino,1,13.16,Pago Móvil
+2023-07-09 21:35:07.887361,Sandwich de Jamón y Queso,1,11.92,Efectivo
+2023-11-17 20:40:06.489220,Chocolate Caliente,1,2.87,Efectivo
+2023-11-24 16:42:52.853735,Brownie,2,10.79,Efectivo
+2023-06-12 15:58:57.564557,Jugo de Naranja,1,5.65,Pago Móvil
+2023-07-16 07:49:14.709695,Té Negro,3,6.8,Efectivo
+2023-03-20 00:04:41.199869,Té Verde,4,2.75,Tarjeta de Débito
+2023-03-20 07:54:46.450078,Croissant,3,6.24,Tarjeta de Crédito
+2023-05-28 03:45:33.839933,Sandwich de Jamón y Queso,1,14.86,Tarjeta de Débito
+2023-12-20 11:53:28.237293,Té Negro,2,11.91,Tarjeta de Débito
+2023-03-30 08:51:06.927918,Café Latte,3,9.15,Tarjeta de Débito
+2023-12-28 19:26:41.887918,Mocaccino,2,6.07,Tarjeta de Débito
+2023-10-03 21:44:32.118105,Mocaccino,3,14.6,Tarjeta de Crédito
+2023-05-13 15:32:57.021080,Café Americano,1,5.45,Tarjeta de Crédito
+2023-10-23 05:41:56.801570,Muffin,3,3.59,Pago Móvil
+2023-10-12 02:03:55.054044,Café Americano,3,9.06,Tarjeta de Crédito
+2023-05-06 01:48:25.630600,Sandwich de Jamón y Queso,1,11.5,Efectivo
+2023-10-11 23:43:59.087285,Croissant,2,11.08,Pago Móvil
+2023-05-11 14:54:26.608115,Té Negro,4,7.91,Tarjeta de Débito
+2023-06-16 14:28:55.825513,Té Verde,4,4.28,Pago Móvil
+2023-02-12 17:18:20.111009,Croissant,3,8.71,Tarjeta de Crédito
+2023-11-11 22:31:31.400524,Croissant,4,6.98,Efectivo
+2023-04-15 08:51:43.119685,Croissant,3,14.39,Pago Móvil
+2023-04-05 00:57:27.172982,Té Negro,1,3.01,Tarjeta de Débito
+2023-11-15 03:18:06.120663,Croissant,4,12.47,Tarjeta de Crédito
+2023-06-18 23:35:09.089577,Brownie,1,6.82,Pago Móvil
+2023-11-28 20:27:45.062832,Café Latte,4,5.73,Pago Móvil
+2023-03-08 03:10:29.399205,Galleta,1,8.91,Tarjeta de Crédito
+2023-01-02 10:23:20.125954,Café Americano,3,8.81,Tarjeta de Débito
+2023-06-25 06:51:47.661969,Té Verde,4,11.31,Pago Móvil
+2023-03-27 23:55:32.710501,Capuchino,1,5.06,Efectivo
+2023-11-17 15:13:15.212577,Espresso,3,14.64,Efectivo
+2023-03-17 12:50:59.776449,Café Latte,2,4.11,Efectivo
+2023-11-11 03:16:43.417411,Espresso,2,4.63,Efectivo
+2023-12-26 15:30:04.091372,Croissant,3,13.48,Pago Móvil
+2023-02-12 14:57:22.725700,Espresso,4,5.97,Tarjeta de Débito
+2023-06-26 13:47:28.330574,Brownie,1,14.09,Tarjeta de Crédito
+2023-11-07 00:25:43.913323,Jugo de Naranja,3,10.48,Tarjeta de Débito
+2023-08-04 00:11:50.324362,Capuchino,2,9.68,Tarjeta de Crédito
+2023-12-19 16:05:49.398480,Brownie,2,12.91,Pago Móvil
+2023-05-14 22:21:38.553489,Café Latte,2,11.72,Tarjeta de Débito
+2023-03-14 09:31:59.449868,Mocaccino,2,8.32,Pago Móvil
+2023-06-20 17:33:22.905215,Capuchino,2,13.44,Tarjeta de Crédito
+2023-07-20 21:06:43.027768,Mocaccino,3,4.3,Efectivo
+2023-11-04 08:32:53.048326,Jugo de Naranja,2,14.42,Efectivo
+2023-12-04 02:40:36.515349,Café Latte,4,10.92,Tarjeta de Crédito
+2023-02-11 09:32:52.124840,Café Americano,2,7.1,Tarjeta de Débito
+2023-11-03 01:30:33.030889,Té Negro,1,11.05,Tarjeta de Crédito
+2023-10-28 07:09:32.685405,Café Latte,4,12.3,Pago Móvil
+2023-08-30 12:49:26.225427,Chocolate Caliente,3,14.38,Efectivo
+2023-06-16 05:19:09.191527,Galleta,2,3.13,Tarjeta de Crédito
+2023-06-15 21:11:59.274306,Sandwich de Jamón y Queso,3,9.76,Tarjeta de Débito
+2023-05-18 10:08:29.512418,Chocolate Caliente,3,3.58,Efectivo
+2023-01-28 02:04:09.361386,Café Americano,4,8.02,Tarjeta de Crédito
+2023-03-04 15:49:05.762930,Chocolate Caliente,3,6.81,Tarjeta de Débito
+2023-06-20 12:40:22.246602,Muffin,4,10.62,Tarjeta de Débito
+2023-11-20 02:21:26.402179,Café Latte,4,4.79,Tarjeta de Débito
+2023-04-03 21:37:57.901803,Capuchino,2,8.52,Tarjeta de Débito
+2023-04-15 16:21:47.949987,Jugo de Naranja,3,7.78,Tarjeta de Crédito
+2023-03-23 15:17:56.847085,Capuchino,2,7.57,Tarjeta de Débito
+2023-05-27 13:08:22.753766,Té Verde,1,12.85,Efectivo
+2023-10-26 15:17:55.820879,Capuchino,1,6.6,Efectivo
+2023-11-07 11:54:14.298432,Croissant,1,13.39,Pago Móvil
+2023-06-27 19:09:29.190437,Galleta,3,7.74,Tarjeta de Débito
+2023-06-09 22:54:09.786416,Brownie,2,11.74,Tarjeta de Crédito
+2023-05-20 11:47:53.534721,Café Latte,4,8.53,Efectivo
+2023-10-07 23:14:20.585114,Té Verde,2,6.85,Tarjeta de Débito
+2023-10-17 12:06:51.232782,Muffin,4,7.29,Tarjeta de Crédito
+2023-10-21 01:25:11.251575,Mocaccino,4,3.0,Tarjeta de Crédito
+2023-05-17 15:05:13.905422,Capuchino,2,6.65,Tarjeta de Débito
+2023-02-17 06:44:15.384256,Brownie,4,4.42,Efectivo
+2023-05-11 04:25:30.452957,Sandwich de Jamón y Queso,2,5.28,Tarjeta de Crédito
+2023-01-01 14:23:17.754322,Jugo de Naranja,1,12.75,Pago Móvil
+2023-03-27 16:39:11.021397,Capuchino,1,14.98,Efectivo
+2023-03-30 15:35:51.332050,Café Latte,3,5.71,Tarjeta de Crédito
+2023-06-13 19:42:41.592355,Galleta,3,2.52,Tarjeta de Débito
+2023-10-30 05:03:54.242265,Sandwich de Jamón y Queso,2,12.29,Tarjeta de Crédito
+2023-08-08 04:03:02.978647,Muffin,1,5.36,Tarjeta de Crédito
+2023-05-28 01:12:50.230613,Chocolate Caliente,1,14.73,Tarjeta de Débito
+2023-03-29 06:42:23.830752,Sandwich de Jamón y Queso,2,4.29,Pago Móvil
+2023-08-28 22:30:44.820532,Café Latte,4,11.92,Pago Móvil
+2023-02-17 04:22:44.823976,Sandwich de Jamón y Queso,4,7.41,Tarjeta de Débito
+2023-06-18 05:20:38.854716,Sandwich de Jamón y Queso,4,14.09,Pago Móvil
+2023-07-17 18:07:38.555335,Té Negro,4,4.95,Tarjeta de Débito
+2023-02-14 02:48:52.316941,Capuchino,3,4.3,Pago Móvil
+2023-01-29 11:14:46.296623,Croissant,3,9.94,Tarjeta de Crédito
+2023-05-19 01:05:53.054823,Sandwich de Jamón y Queso,2,14.95,Efectivo
+2023-04-07 08:41:48.757602,Brownie,4,2.74,Tarjeta de Débito
+2023-07-05 04:21:10.606944,Sandwich de Jamón y Queso,3,3.7,Pago Móvil
+2023-05-08 06:05:53.986958,Café Latte,2,14.76,Pago Móvil
+2023-05-27 12:49:59.383359,Brownie,4,7.85,Tarjeta de Débito
+2023-03-06 13:15:33.747110,Muffin,2,8.5,Tarjeta de Débito
+2023-08-19 08:04:37.241191,Café Latte,1,3.98,Efectivo
+2023-07-09 07:06:16.986053,Jugo de Naranja,4,7.67,Tarjeta de Crédito
+2023-06-12 12:53:06.677435,Sandwich de Jamón y Queso,3,12.5,Tarjeta de Crédito
+2023-08-06 18:05:27.658797,Espresso,3,8.92,Tarjeta de Débito
+2023-08-03 01:37:41.951859,Café Americano,3,6.12,Tarjeta de Débito
+2023-12-14 07:46:15.276716,Sandwich de Jamón y Queso,2,4.11,Efectivo
+2023-08-15 17:46:46.652398,Jugo de Naranja,1,9.5,Efectivo
+2023-05-25 15:32:25.425533,Galleta,1,14.33,Tarjeta de Débito
+2023-10-05 17:18:50.046181,Té Verde,3,11.68,Efectivo
+2023-11-20 03:35:29.828884,Croissant,4,4.77,Tarjeta de Crédito
+2023-07-07 18:12:36.335844,Sandwich de Jamón y Queso,3,7.29,Tarjeta de Débito
+2023-06-04 08:37:25.271148,Sandwich de Jamón y Queso,3,8.63,Tarjeta de Crédito
+2023-09-17 04:00:08.762545,Sandwich de Jamón y Queso,2,3.48,Tarjeta de Crédito
+2023-10-23 00:25:42.572091,Café Latte,1,4.19,Tarjeta de Débito
+2023-12-15 04:37:04.039559,Chocolate Caliente,3,10.19,Pago Móvil
+2023-09-01 07:44:21.068537,Capuchino,2,7.72,Efectivo
+2023-05-06 08:48:37.397048,Brownie,2,6.4,Pago Móvil
+2023-04-01 22:45:38.006134,Muffin,3,9.23,Efectivo
+2023-12-13 04:43:34.356111,Café Latte,2,2.81,Tarjeta de Débito
+2023-02-24 21:31:22.517432,Té Negro,4,3.72,Tarjeta de Débito
+2023-06-06 09:39:06.651506,Café Americano,1,13.15,Pago Móvil
+2023-09-06 09:56:22.850253,Café Latte,1,8.55,Pago Móvil
+2023-01-28 17:01:35.267456,Jugo de Naranja,4,8.62,Tarjeta de Crédito
+2023-12-16 12:12:30.119880,Té Verde,1,3.44,Efectivo
+2023-11-09 00:03:11.590236,Té Verde,3,9.77,Tarjeta de Débito
+2023-03-24 06:28:59.434106,Croissant,4,14.74,Efectivo
+2023-02-21 05:45:58.265111,Mocaccino,4,3.39,Tarjeta de Débito
+2023-12-05 02:42:34.259957,Muffin,3,2.9,Efectivo
+2023-01-13 00:58:14.020183,Croissant,2,6.5,Tarjeta de Débito
+2023-07-20 20:03:39.628506,Espresso,2,2.54,Tarjeta de Débito
+2023-08-04 13:51:15.465706,Croissant,4,14.28,Tarjeta de Débito
+2023-09-28 15:37:41.175088,Té Verde,3,6.5,Efectivo
+2023-04-02 18:12:21.104910,Capuchino,1,14.68,Tarjeta de Crédito
+2023-02-27 17:34:31.550217,Café Americano,1,4.64,Pago Móvil
+2023-01-26 06:08:45.311815,Té Negro,2,5.86,Efectivo
+2023-11-15 21:46:30.742759,Chocolate Caliente,4,12.2,Pago Móvil
+2023-04-19 01:55:09.383234,Croissant,4,6.14,Pago Móvil
+2023-01-22 12:18:13.589156,Capuchino,4,6.67,Tarjeta de Débito
+2023-03-01 02:04:18.429832,Jugo de Naranja,4,2.75,Tarjeta de Crédito
+2023-05-23 12:56:26.599212,Espresso,2,11.13,Tarjeta de Crédito
+2023-06-03 01:13:46.580685,Croissant,2,14.71,Efectivo
+2023-07-02 22:11:23.041654,Chocolate Caliente,2,3.85,Tarjeta de Débito
+2023-09-14 05:47:36.466538,Mocaccino,3,10.57,Efectivo
+2023-07-13 18:14:36.420489,Café Americano,3,13.62,Tarjeta de Crédito
+2023-05-12 06:13:56.945338,Mocaccino,3,13.3,Efectivo
+2023-02-13 14:20:36.497885,Capuchino,1,5.39,Tarjeta de Crédito
+2023-07-02 17:02:47.285177,Galleta,3,7.77,Tarjeta de Crédito
+2023-06-04 11:33:03.786537,Croissant,1,12.36,Tarjeta de Débito
+2023-09-03 08:13:03.703427,Café Americano,1,2.68,Pago Móvil
+2023-11-13 16:07:48.762212,Mocaccino,3,14.38,Tarjeta de Débito
+2023-01-26 02:22:05.641186,Jugo de Naranja,2,14.75,Efectivo
+2023-02-19 21:56:34.344731,Café Latte,3,3.77,Tarjeta de Crédito
+2023-03-23 17:12:33.865522,Té Verde,2,5.52,Pago Móvil
+2023-11-23 10:50:11.499070,Capuchino,1,6.29,Efectivo
+2023-07-12 12:40:42.655233,Sandwich de Jamón y Queso,1,14.14,Tarjeta de Crédito
+2023-05-13 02:21:19.239993,Té Verde,3,12.85,Tarjeta de Débito
+2023-10-12 17:13:06.390837,Té Verde,1,7.9,Efectivo
+2023-06-27 21:46:06.912654,Café Latte,1,12.93,Pago Móvil
+2023-12-05 07:41:47.835271,Brownie,3,13.11,Tarjeta de Crédito
+2023-03-01 22:55:34.518520,Croissant,3,4.83,Tarjeta de Débito
+2023-08-31 06:59:55.967451,Croissant,2,10.52,Pago Móvil
+2023-02-26 08:09:04.415148,Muffin,4,7.54,Efectivo
+2023-03-02 06:55:45.063304,Capuchino,4,7.09,Tarjeta de Crédito
+2023-05-21 23:29:27.888230,Capuchino,4,5.54,Tarjeta de Débito
+2023-09-10 01:54:31.326818,Galleta,4,3.05,Efectivo
+2023-03-15 10:33:46.764866,Galleta,3,14.37,Tarjeta de Crédito
+2023-10-20 05:43:05.711227,Sandwich de Jamón y Queso,3,6.89,Pago Móvil
+2023-10-06 03:58:07.334311,Espresso,2,14.33,Tarjeta de Crédito
+2023-08-22 14:38:07.180600,Té Negro,3,13.72,Tarjeta de Débito
+2023-03-29 11:55:08.158297,Brownie,3,4.31,Pago Móvil
+2023-01-25 13:15:04.191709,Té Verde,2,13.3,Pago Móvil
+2023-04-16 13:23:38.802776,Galleta,2,14.77,Tarjeta de Crédito
+2023-04-13 02:13:52.055791,Té Verde,2,14.5,Tarjeta de Débito
+2023-05-04 00:48:45.615018,Galleta,2,4.81,Pago Móvil
+2023-11-21 21:35:56.188788,Sandwich de Jamón y Queso,1,14.5,Tarjeta de Débito
+2023-09-24 11:54:19.236498,Croissant,3,13.5,Pago Móvil
+2023-12-16 02:51:49.004225,Espresso,2,5.96,Tarjeta de Crédito
+2023-08-27 18:16:55.788603,Chocolate Caliente,2,7.91,Efectivo
+2023-07-08 14:22:21.009184,Chocolate Caliente,4,10.24,Tarjeta de Crédito
+2023-07-24 14:33:08.311710,Croissant,3,11.34,Tarjeta de Débito
+2023-08-05 02:42:11.904677,Mocaccino,2,13.57,Tarjeta de Débito
+2023-04-28 06:21:15.932021,Espresso,3,4.7,Efectivo
+2023-09-09 12:29:45.423330,Café Americano,3,10.04,Pago Móvil
+2023-08-14 16:46:28.057646,Sandwich de Jamón y Queso,1,6.1,Efectivo
+2023-07-20 17:30:32.096770,Jugo de Naranja,1,4.07,Efectivo
+2023-06-10 03:56:18.168503,Café Americano,1,12.05,Tarjeta de Débito
+2023-08-04 11:31:50.646485,Muffin,3,7.18,Tarjeta de Crédito
+2023-05-10 09:16:06.238182,Chocolate Caliente,4,6.57,Efectivo
+2023-12-09 18:15:32.875698,Chocolate Caliente,3,10.43,Pago Móvil
+2023-02-08 04:04:55.852874,Chocolate Caliente,4,3.21,Pago Móvil
+2023-09-30 10:26:02.579139,Café Americano,1,10.52,Efectivo
+2023-12-03 07:52:20.692914,Mocaccino,2,6.39,Tarjeta de Crédito
+2023-02-05 07:05:18.560077,Café Americano,1,3.87,Tarjeta de Débito
+2023-05-04 05:12:23.087865,Té Verde,2,4.49,Pago Móvil
+2023-04-20 12:01:41.967700,Café Americano,2,12.8,Tarjeta de Débito
+2023-11-25 23:36:15.227320,Sandwich de Jamón y Queso,3,9.03,Tarjeta de Crédito
+2023-11-19 13:05:50.877693,Capuchino,3,6.02,Pago Móvil
+2023-12-23 17:36:49.505640,Jugo de Naranja,4,13.83,Efectivo
+2023-07-03 17:41:01.845838,Capuchino,2,2.97,Tarjeta de Crédito
+2023-08-25 02:40:58.316791,Espresso,2,11.97,Tarjeta de Débito
+2023-04-17 11:04:21.159712,Croissant,2,9.79,Tarjeta de Débito
+2023-12-17 20:51:21.889870,Chocolate Caliente,4,12.74,Pago Móvil
+2023-06-01 01:49:18.037714,Café Latte,3,5.07,Tarjeta de Crédito
+2023-05-29 06:47:11.701259,Café Latte,1,3.18,Tarjeta de Débito
+2023-11-28 07:27:08.967228,Jugo de Naranja,1,5.17,Pago Móvil
+2023-12-08 16:33:52.820190,Galleta,4,4.85,Tarjeta de Crédito
+2023-02-14 13:09:57.282718,Brownie,3,11.8,Efectivo
+2023-07-03 16:55:40.769365,Chocolate Caliente,3,2.93,Pago Móvil
+2023-12-21 19:16:34.613863,Capuchino,2,7.6,Efectivo
+2023-05-27 10:22:45.144572,Capuchino,1,3.66,Efectivo
+2023-08-26 01:29:23.300093,Café Latte,2,14.26,Efectivo
+2023-12-23 02:46:15.764882,Capuchino,3,5.6,Tarjeta de Débito
+2023-11-06 23:24:59.445100,Té Negro,1,6.75,Efectivo
+2023-04-15 04:56:05.660508,Espresso,3,4.23,Tarjeta de Débito
+2023-12-11 12:42:45.664272,Galleta,4,9.29,Pago Móvil
+2023-10-28 15:05:00.565852,Brownie,2,7.69,Efectivo
+2023-12-01 03:19:46.074269,Jugo de Naranja,1,3.06,Tarjeta de Crédito
+2023-10-21 23:10:57.871700,Mocaccino,2,6.09,Efectivo
+2023-04-19 20:45:48.939643,Té Negro,3,3.02,Tarjeta de Débito
+2023-06-24 21:56:02.919564,Espresso,3,3.39,Efectivo
+2023-12-29 17:54:17.942706,Jugo de Naranja,2,14.81,Tarjeta de Crédito
+2023-11-23 21:51:27.426031,Brownie,1,10.79,Pago Móvil
+2023-08-28 09:26:15.747526,Brownie,2,3.96,Tarjeta de Débito
+2023-03-08 00:56:10.215502,Muffin,3,13.29,Tarjeta de Crédito
+2023-08-30 18:22:23.173680,Espresso,2,3.19,Tarjeta de Crédito
+2023-07-13 23:43:56.508991,Croissant,3,12.09,Efectivo
+2023-06-30 18:16:11.336970,Brownie,2,4.61,Tarjeta de Débito
+2023-09-15 21:28:57.886237,Sandwich de Jamón y Queso,2,10.89,Pago Móvil
+2023-02-20 21:38:00.470851,Sandwich de Jamón y Queso,1,2.95,Efectivo
+2023-02-08 04:15:08.059283,Mocaccino,2,7.52,Tarjeta de Débito
+2023-09-13 23:24:15.427714,Café Latte,4,7.21,Efectivo
+2023-07-07 11:09:56.908379,Sandwich de Jamón y Queso,4,2.83,Pago Móvil
+2023-03-13 05:39:41.682011,Café Americano,3,14.29,Pago Móvil
+2023-08-05 04:44:44.311026,Sandwich de Jamón y Queso,3,4.71,Efectivo
+2023-11-23 23:34:40.416215,Café Latte,1,3.53,Efectivo
+2023-03-29 09:36:12.243902,Espresso,3,13.93,Tarjeta de Crédito
+2023-12-15 02:10:34.571046,Té Verde,4,9.29,Pago Móvil
+2023-03-23 18:05:16.142638,Muffin,4,4.01,Tarjeta de Crédito
+2023-07-17 23:23:03.940892,Té Negro,1,14.43,Tarjeta de Crédito
+2023-06-03 14:10:39.420258,Croissant,4,6.65,Tarjeta de Crédito
+2023-11-08 07:16:45.451964,Sandwich de Jamón y Queso,4,8.88,Tarjeta de Crédito
+2023-10-21 01:34:46.299658,Brownie,2,7.14,Tarjeta de Crédito
+2023-07-14 10:48:44.636782,Espresso,1,14.86,Pago Móvil
+2023-09-26 20:44:11.362152,Muffin,2,4.61,Pago Móvil
+2023-10-11 14:10:21.898764,Café Americano,4,12.92,Efectivo
+2023-04-08 12:02:18.445545,Café Latte,2,9.51,Pago Móvil
+2023-11-30 17:34:05.082188,Jugo de Naranja,3,9.09,Pago Móvil
+2023-01-09 18:27:23.531252,Muffin,1,11.29,Tarjeta de Débito
+2023-03-01 21:11:03.613668,Sandwich de Jamón y Queso,2,9.78,Tarjeta de Débito
+2023-12-06 06:37:49.722760,Sandwich de Jamón y Queso,4,3.33,Tarjeta de Crédito
+2023-03-01 23:53:43.790118,Croissant,3,8.48,Tarjeta de Crédito
+2023-04-04 08:29:51.046693,Café Americano,2,11.1,Tarjeta de Débito
+2023-05-07 20:34:11.500355,Té Verde,2,10.92,Tarjeta de Débito
+2023-07-06 19:55:44.866205,Café Americano,1,2.7,Pago Móvil
+2023-08-20 06:22:03.758288,Jugo de Naranja,3,5.67,Tarjeta de Débito
+2023-09-26 16:09:35.105402,Té Verde,1,14.74,Efectivo
+2023-03-19 12:43:38.960340,Brownie,4,12.99,Tarjeta de Crédito
+2023-12-23 12:55:46.698551,Té Negro,1,11.14,Efectivo
+2023-10-25 17:26:32.805389,Mocaccino,4,12.01,Pago Móvil
+2023-06-26 04:37:51.563399,Espresso,2,4.2,Pago Móvil
+2023-12-20 18:34:27.040278,Sandwich de Jamón y Queso,1,3.75,Tarjeta de Débito
+2023-04-30 18:16:29.552527,Café Americano,3,9.93,Efectivo
+2023-04-03 22:20:20.723673,Mocaccino,2,4.14,Pago Móvil
+2023-05-14 22:11:16.090110,Brownie,3,13.66,Pago Móvil
+2023-01-08 12:53:55.042378,Café Americano,3,6.7,Tarjeta de Crédito
+2023-12-31 11:33:00.432846,Café Latte,3,12.6,Tarjeta de Crédito
+2023-05-15 01:23:49.661356,Café Americano,2,12.28,Tarjeta de Débito
+2023-12-14 17:30:55.815137,Espresso,4,13.52,Pago Móvil
+2023-04-24 16:46:51.231094,Muffin,1,13.84,Efectivo
+2023-12-23 17:36:59.423515,Capuchino,3,3.89,Tarjeta de Débito
+2023-12-02 02:04:39.782972,Mocaccino,2,13.87,Pago Móvil
+2023-09-13 21:36:42.694590,Muffin,1,6.49,Efectivo
+2023-03-25 13:11:28.987917,Jugo de Naranja,2,7.0,Tarjeta de Débito
+2023-04-28 06:00:40.374597,Té Negro,4,3.14,Efectivo
+2023-06-22 06:03:52.088879,Jugo de Naranja,1,2.68,Efectivo
+2023-06-01 20:06:17.794485,Sandwich de Jamón y Queso,3,8.22,Tarjeta de Débito
+2023-07-03 12:23:55.636421,Jugo de Naranja,2,8.85,Efectivo
+2023-07-11 16:37:33.015204,Café Americano,3,8.69,Pago Móvil
+2023-11-21 18:52:04.491559,Chocolate Caliente,1,9.68,Efectivo
+2023-11-18 21:56:34.102777,Muffin,1,9.7,Tarjeta de Crédito
+2023-05-29 07:00:14.929538,Té Verde,2,5.33,Tarjeta de Crédito
+2023-05-18 15:45:55.540557,Café Americano,1,9.25,Efectivo
+2023-08-09 22:34:11.219305,Sandwich de Jamón y Queso,3,11.7,Tarjeta de Crédito
+2023-04-09 04:10:24.077662,Café Americano,4,5.16,Tarjeta de Crédito
+2023-05-02 17:16:11.867651,Mocaccino,1,9.6,Tarjeta de Débito
+2023-04-18 22:28:28.573459,Té Negro,3,14.17,Tarjeta de Débito
+2023-08-20 19:30:56.321405,Espresso,2,5.58,Pago Móvil
+2023-01-19 21:46:27.435557,Espresso,4,10.72,Tarjeta de Débito
+2023-09-15 12:54:16.190532,Capuchino,4,14.65,Efectivo
+2023-02-06 16:29:10.753892,Sandwich de Jamón y Queso,3,14.45,Pago Móvil
+2023-09-13 16:18:19.239590,Jugo de Naranja,3,8.12,Efectivo
+2023-08-09 10:04:42.836045,Muffin,2,8.41,Tarjeta de Crédito
+2023-09-19 17:25:55.043632,Muffin,4,14.64,Efectivo
+2023-04-12 03:13:21.686335,Croissant,1,13.96,Pago Móvil
+2023-08-21 06:27:12.833568,Sandwich de Jamón y Queso,4,14.43,Efectivo
+2023-05-01 13:32:56.247112,Chocolate Caliente,3,11.84,Efectivo
+2023-05-05 03:59:04.353939,Mocaccino,1,5.82,Efectivo
+2023-04-08 09:21:41.076878,Chocolate Caliente,3,5.64,Pago Móvil
+2023-10-28 02:48:26.352266,Sandwich de Jamón y Queso,4,7.65,Tarjeta de Crédito
+2023-12-31 14:02:39.611761,Té Verde,4,3.26,Pago Móvil
+2023-07-10 18:22:54.204857,Café Latte,2,9.76,Tarjeta de Débito
+2023-03-06 10:36:40.891336,Galleta,3,14.08,Tarjeta de Débito
+2023-08-28 08:08:50.246796,Capuchino,1,10.12,Efectivo
+2023-10-04 13:38:40.761138,Mocaccino,2,7.36,Pago Móvil
+2023-01-13 15:05:09.487801,Capuchino,1,7.37,Tarjeta de Crédito
+2023-03-21 06:05:56.989359,Brownie,1,3.62,Tarjeta de Crédito
+2023-08-02 04:11:26.936991,Café Latte,3,7.09,Efectivo
+2023-01-31 19:18:50.891246,Galleta,4,2.86,Tarjeta de Débito
+2023-06-07 05:22:02.627099,Sandwich de Jamón y Queso,2,12.44,Efectivo
+2023-12-15 12:28:06.083492,Sandwich de Jamón y Queso,2,13.88,Tarjeta de Crédito
+2023-01-15 23:01:59.292666,Espresso,1,11.81,Tarjeta de Débito
+2023-12-03 19:24:08.533838,Sandwich de Jamón y Queso,2,14.63,Tarjeta de Crédito
+2023-07-14 09:11:51.362154,Café Americano,3,14.32,Efectivo
+2023-05-04 14:35:28.619035,Té Negro,2,7.57,Pago Móvil
+2023-08-16 00:32:56.835987,Café Latte,2,13.34,Tarjeta de Crédito
+2023-03-31 14:25:21.472842,Capuchino,3,8.53,Efectivo
+2023-05-15 10:05:17.932750,Chocolate Caliente,3,4.7,Tarjeta de Crédito
+2023-03-29 05:43:18.046907,Sandwich de Jamón y Queso,1,2.68,Efectivo
+2023-11-30 10:43:53.446464,Té Negro,3,6.69,Pago Móvil
+2023-09-02 03:27:37.942195,Jugo de Naranja,1,10.56,Efectivo
+2023-12-13 03:40:06.313482,Galleta,2,11.03,Efectivo
+2023-11-05 17:32:03.878743,Galleta,3,10.45,Tarjeta de Débito
+2023-12-27 08:01:47.282783,Espresso,4,14.56,Tarjeta de Crédito
+2023-01-30 08:47:47.596061,Chocolate Caliente,1,12.77,Tarjeta de Crédito
+2023-04-02 02:47:02.048165,Chocolate Caliente,1,5.53,Tarjeta de Débito
+2023-02-10 12:15:02.234083,Brownie,3,10.73,Efectivo
+2023-10-05 05:13:55.736236,Jugo de Naranja,4,9.48,Tarjeta de Débito
+2023-02-16 05:16:21.787501,Brownie,4,7.3,Tarjeta de Débito
+2023-02-12 15:11:06.905006,Té Negro,4,12.37,Efectivo
+2023-03-19 01:24:17.902580,Mocaccino,2,14.86,Tarjeta de Crédito
+2023-12-18 12:12:52.305865,Muffin,2,13.7,Tarjeta de Débito
+2023-05-24 22:53:24.861891,Capuchino,1,7.34,Efectivo
+2023-07-02 12:37:52.160822,Muffin,2,2.86,Tarjeta de Débito
+2023-04-12 12:26:34.519408,Mocaccino,1,14.19,Pago Móvil
+2023-05-06 00:35:56.608571,Mocaccino,2,8.13,Tarjeta de Crédito
+2023-08-07 16:15:39.933247,Té Negro,1,12.07,Tarjeta de Débito
+2023-03-24 01:56:14.332551,Jugo de Naranja,3,7.07,Pago Móvil
+2023-11-30 18:06:49.553447,Espresso,1,8.94,Tarjeta de Crédito
+2023-10-05 04:10:49.854825,Jugo de Naranja,1,5.27,Tarjeta de Débito
+2023-12-11 09:31:00.278082,Brownie,3,14.16,Tarjeta de Débito
+2023-08-13 10:23:30.651932,Café Latte,4,13.34,Tarjeta de Crédito
+2023-08-01 13:41:37.357335,Capuchino,1,7.01,Tarjeta de Crédito
+2023-09-12 00:10:58.152579,Chocolate Caliente,4,10.65,Pago Móvil
+2023-07-02 01:23:44.275137,Café Latte,1,6.81,Pago Móvil
+2023-11-30 13:33:32.004537,Café Americano,4,13.62,Pago Móvil
+2023-06-30 02:01:35.270626,Jugo de Naranja,4,8.65,Tarjeta de Crédito
+2023-10-03 22:35:38.036391,Galleta,4,8.63,Tarjeta de Débito
+2023-10-27 22:37:39.171348,Té Negro,1,3.8,Tarjeta de Débito
+2023-11-15 05:59:50.635503,Espresso,1,5.08,Tarjeta de Débito
+2023-10-27 01:05:40.165118,Té Verde,3,8.66,Tarjeta de Crédito
+2023-05-15 11:53:25.565146,Jugo de Naranja,4,9.28,Tarjeta de Crédito
+2023-12-04 16:34:44.418090,Jugo de Naranja,3,10.22,Tarjeta de Débito
+2023-01-14 06:13:09.465583,Sandwich de Jamón y Queso,2,4.81,Efectivo
+2023-12-23 19:17:33.097952,Brownie,1,2.99,Efectivo
+2023-03-25 00:03:44.477420,Café Latte,4,11.62,Tarjeta de Crédito
+2023-07-30 11:46:26.040010,Muffin,4,3.06,Tarjeta de Débito
+2023-11-29 01:44:11.768097,Jugo de Naranja,3,5.99,Tarjeta de Crédito
+2023-10-31 16:33:18.097133,Croissant,3,6.77,Pago Móvil
+2023-02-02 09:59:52.181920,Mocaccino,2,4.8,Tarjeta de Débito
+2023-01-28 15:39:48.669675,Café Latte,2,4.1,Tarjeta de Débito
+2023-12-01 16:22:51.524258,Jugo de Naranja,1,13.54,Efectivo
+2023-11-12 07:14:17.312137,Espresso,4,5.76,Efectivo
+2023-04-06 04:15:04.109961,Café Latte,1,4.04,Tarjeta de Débito
+2023-11-29 16:20:15.926768,Café Latte,4,11.07,Efectivo
+2023-03-01 10:18:14.783144,Chocolate Caliente,1,5.96,Efectivo
+2023-04-15 15:23:56.262174,Croissant,2,10.98,Tarjeta de Débito
+2023-02-02 04:44:07.176131,Mocaccino,3,8.24,Pago Móvil
+2023-10-30 03:55:19.800652,Café Americano,1,11.53,Efectivo
+2023-05-28 09:04:56.273305,Croissant,4,10.73,Pago Móvil
+2023-09-12 19:55:54.713174,Té Negro,1,11.16,Pago Móvil
+2023-02-23 08:10:35.127190,Té Negro,1,14.68,Pago Móvil
+2023-09-11 14:13:40.156790,Sandwich de Jamón y Queso,1,6.66,Efectivo
+2023-07-18 04:21:19.757917,Jugo de Naranja,2,8.0,Tarjeta de Débito
+2023-07-02 17:12:39.876568,Espresso,2,12.2,Efectivo
+2023-10-06 17:11:55.428030,Café Americano,4,8.11,Pago Móvil
+2023-10-31 14:09:52.067384,Galleta,2,12.81,Efectivo
+2023-04-12 23:15:27.455225,Muffin,2,6.17,Pago Móvil
+2023-02-24 10:20:00.068595,Muffin,3,8.83,Tarjeta de Crédito
+2023-03-28 20:07:24.077389,Croissant,2,12.1,Efectivo
+2023-10-20 14:57:12.673867,Sandwich de Jamón y Queso,2,6.34,Efectivo
+2023-08-29 12:13:21.129925,Muffin,3,13.07,Efectivo
+2023-05-03 19:42:48.647025,Sandwich de Jamón y Queso,3,10.68,Tarjeta de Crédito
+2023-10-21 11:48:32.120068,Jugo de Naranja,2,4.43,Tarjeta de Débito
+2023-11-26 01:48:54.465828,Brownie,1,6.47,Tarjeta de Crédito
+2023-12-02 05:01:06.234702,Capuchino,4,7.01,Efectivo
+2023-06-26 12:21:30.804015,Café Americano,2,9.88,Tarjeta de Débito
+2023-02-14 17:15:51.061391,Galleta,2,13.34,Tarjeta de Débito
+2023-03-13 13:01:45.385510,Jugo de Naranja,1,10.75,Tarjeta de Crédito
+2023-12-13 11:35:31.829441,Espresso,2,4.25,Pago Móvil
+2023-12-17 15:45:46.842942,Espresso,2,6.99,Pago Móvil
+2023-05-20 03:37:03.276980,Jugo de Naranja,2,13.4,Efectivo
+2023-08-07 15:29:12.661918,Muffin,4,13.93,Tarjeta de Débito
+2023-12-09 12:10:08.284517,Croissant,1,10.93,Efectivo
+2023-09-22 01:34:44.176859,Café Latte,2,12.54,Efectivo
+2023-10-13 19:47:32.105417,Café Americano,1,3.14,Pago Móvil
+2023-01-17 15:44:32.488908,Brownie,1,4.83,Pago Móvil
+2023-07-01 15:50:34.881896,Espresso,4,9.64,Tarjeta de Débito
+2023-10-23 16:58:48.552688,Galleta,4,4.51,Efectivo
+2023-10-03 05:34:08.008480,Sandwich de Jamón y Queso,3,10.98,Pago Móvil
+2023-05-28 00:39:41.155593,Chocolate Caliente,2,4.2,Efectivo
+2023-07-23 17:28:08.702833,Café Latte,2,9.12,Tarjeta de Crédito
+2023-08-24 04:47:59.788018,Té Verde,1,4.35,Tarjeta de Débito
+2023-02-25 10:37:44.282690,Mocaccino,2,3.29,Tarjeta de Débito
+2023-11-25 16:09:55.169807,Té Verde,1,12.53,Tarjeta de Débito
+2023-07-24 13:23:26.761724,Café Americano,2,4.18,Efectivo
+2023-04-01 17:13:30.836146,Café Americano,3,13.19,Tarjeta de Débito
+2023-12-18 02:57:19.497720,Espresso,1,4.64,Tarjeta de Crédito
+2023-11-27 21:47:33.601668,Brownie,3,2.61,Efectivo
+2023-12-29 14:50:44.136863,Café Latte,1,13.96,Tarjeta de Crédito
+2023-08-30 06:30:28.124109,Café Latte,4,2.94,Pago Móvil
+2023-08-14 23:45:51.103902,Galleta,4,13.51,Efectivo
+2023-01-24 15:00:55.643773,Jugo de Naranja,2,6.12,Efectivo
+2023-06-11 18:51:05.235121,Mocaccino,3,14.39,Efectivo
+2023-06-02 22:58:13.440095,Té Negro,3,5.3,Efectivo
+2023-12-12 19:34:15.256914,Brownie,4,5.55,Pago Móvil
+2023-06-16 01:29:12.935410,Jugo de Naranja,4,4.03,Tarjeta de Crédito
+2023-11-07 01:07:33.768687,Jugo de Naranja,3,3.29,Tarjeta de Crédito
+2023-08-02 04:35:59.369826,Brownie,3,13.6,Pago Móvil
+2023-01-05 19:38:36.122544,Capuchino,4,9.24,Efectivo
+2023-08-05 12:41:45.643659,Chocolate Caliente,2,12.75,Tarjeta de Crédito
+2023-09-25 18:16:21.713542,Chocolate Caliente,3,5.2,Pago Móvil
+2023-05-26 18:34:13.284095,Espresso,1,6.06,Tarjeta de Crédito
+2023-04-10 07:31:17.799938,Capuchino,2,12.59,Pago Móvil
+2023-12-21 10:14:41.915876,Muffin,4,2.97,Efectivo
+2023-01-03 12:52:27.809700,Jugo de Naranja,4,5.82,Efectivo
+2023-10-06 07:09:04.815435,Galleta,2,3.94,Tarjeta de Débito
+2023-04-12 01:01:43.743138,Sandwich de Jamón y Queso,4,7.93,Tarjeta de Débito
+2023-02-15 17:32:28.767366,Brownie,4,3.58,Tarjeta de Débito
+2023-04-26 09:38:54.585995,Té Verde,1,11.03,Efectivo
+2023-02-08 10:30:38.782775,Sandwich de Jamón y Queso,4,11.76,Tarjeta de Crédito
+2023-01-29 13:00:02.640777,Mocaccino,3,12.86,Pago Móvil
+2023-02-15 12:42:41.670161,Galleta,3,7.73,Efectivo
+2023-05-07 16:29:15.696808,Croissant,4,13.34,Tarjeta de Débito
+2023-04-26 23:03:44.720646,Jugo de Naranja,2,3.86,Tarjeta de Crédito
+2023-11-25 02:09:08.729752,Brownie,3,13.67,Efectivo
+2023-10-26 16:45:37.621445,Té Negro,2,7.64,Efectivo
+2023-04-27 18:35:22.321574,Té Verde,2,14.01,Tarjeta de Crédito
+2023-10-09 17:56:13.798549,Chocolate Caliente,3,11.48,Pago Móvil
+2023-10-02 18:33:29.111008,Espresso,4,4.21,Efectivo
+2023-03-31 13:50:56.878094,Chocolate Caliente,2,7.83,Pago Móvil
+2023-11-25 11:55:27.129712,Capuchino,1,10.83,Efectivo
+2023-09-13 20:05:13.714929,Capuchino,2,9.15,Pago Móvil
+2023-11-02 02:04:10.516287,Café Latte,4,14.31,Pago Móvil
+2023-01-31 11:56:31.161356,Muffin,3,6.32,Pago Móvil
+2023-09-20 12:42:40.631231,Capuchino,3,3.42,Efectivo
+2023-12-03 10:24:49.221815,Chocolate Caliente,4,13.66,Pago Móvil
+2023-02-21 22:36:53.544133,Espresso,4,11.86,Efectivo
+2023-06-10 11:06:22.041793,Sandwich de Jamón y Queso,1,14.61,Pago Móvil
+2023-01-08 11:17:05.771426,Jugo de Naranja,3,5.89,Efectivo
+2023-11-11 07:22:42.180709,Chocolate Caliente,1,6.69,Pago Móvil
+2023-05-29 14:55:05.821864,Chocolate Caliente,2,6.81,Tarjeta de Crédito
+2023-12-16 10:05:40.556996,Té Negro,1,12.5,Tarjeta de Débito
+2023-08-02 16:36:46.249038,Café Americano,4,9.53,Tarjeta de Crédito
+2023-02-06 10:19:52.199792,Muffin,2,10.47,Efectivo
+2023-08-11 07:12:18.109721,Espresso,1,8.82,Pago Móvil
+2023-11-24 02:07:33.719653,Sandwich de Jamón y Queso,1,6.4,Tarjeta de Crédito
+2023-09-28 19:14:21.567038,Jugo de Naranja,4,13.1,Tarjeta de Crédito
+2023-01-01 18:43:10.026149,Galleta,2,11.24,Tarjeta de Débito
+2023-03-21 20:08:46.417264,Jugo de Naranja,3,7.85,Pago Móvil
+2023-08-25 11:15:39.658824,Café Americano,4,2.58,Efectivo
+2023-10-24 11:13:30.658654,Brownie,1,14.65,Efectivo
+2023-04-06 05:49:40.462804,Capuchino,2,14.53,Efectivo
+2023-08-16 08:35:38.407171,Sandwich de Jamón y Queso,4,14.56,Tarjeta de Débito
+2023-05-07 18:53:26.989019,Brownie,3,13.94,Tarjeta de Débito
+2023-11-16 18:16:31.543751,Té Negro,1,12.34,Pago Móvil
+2023-07-25 00:11:52.715548,Brownie,3,10.7,Pago Móvil
+2023-10-16 22:24:08.098876,Sandwich de Jamón y Queso,4,10.28,Tarjeta de Crédito
+2023-04-18 05:48:41.500137,Croissant,3,9.64,Pago Móvil
+2023-10-18 10:40:24.840769,Mocaccino,3,11.47,Tarjeta de Crédito
+2023-05-13 06:06:27.612850,Mocaccino,2,10.77,Tarjeta de Débito
+2023-03-31 03:32:39.275226,Galleta,4,8.47,Tarjeta de Crédito
+2023-12-29 15:01:19.773640,Jugo de Naranja,4,5.12,Tarjeta de Crédito
+2023-10-31 03:51:55.276770,Galleta,1,2.8,Efectivo
+2023-05-30 23:27:12.377827,Galleta,2,3.68,Pago Móvil
+2023-06-18 03:43:26.445877,Espresso,1,7.4,Efectivo
+2023-03-04 18:17:29.479113,Café Americano,2,4.03,Tarjeta de Crédito
+2023-11-15 14:26:44.678460,Jugo de Naranja,4,10.4,Efectivo
+2023-05-21 13:23:15.072170,Té Negro,3,13.87,Tarjeta de Crédito
+2023-07-21 11:34:30.346807,Mocaccino,1,13.63,Efectivo
+2023-01-06 11:03:23.539661,Brownie,4,13.66,Pago Móvil
+2023-10-17 04:11:30.324611,Espresso,1,10.38,Pago Móvil
+2023-04-18 02:08:20.250214,Croissant,4,12.82,Tarjeta de Crédito
+2023-10-28 18:39:20.595291,Espresso,2,14.28,Tarjeta de Crédito
+2023-09-14 19:23:53.008705,Café Americano,3,4.89,Efectivo
+2023-11-13 04:37:22.132635,Café Latte,4,4.13,Tarjeta de Débito
+2023-04-17 16:34:41.775524,Mocaccino,1,9.74,Tarjeta de Débito
+2023-09-05 21:50:08.929496,Jugo de Naranja,2,8.33,Efectivo
+2023-02-08 16:18:14.893852,Jugo de Naranja,2,9.89,Tarjeta de Débito
+2023-12-19 23:03:03.479609,Té Verde,4,3.4,Efectivo
+2023-11-25 10:41:30.054318,Sandwich de Jamón y Queso,3,11.55,Tarjeta de Débito
+2023-03-07 03:46:10.619054,Mocaccino,4,3.99,Pago Móvil
+2023-06-11 13:29:38.395326,Capuchino,4,12.39,Tarjeta de Débito
+2023-11-06 01:51:01.786584,Café Latte,1,13.96,Tarjeta de Débito
+2023-02-25 04:44:20.113253,Espresso,3,6.68,Efectivo
+2023-12-14 10:51:46.488013,Jugo de Naranja,1,5.64,Tarjeta de Crédito
+2023-06-01 01:53:20.419242,Muffin,3,3.38,Pago Móvil
+2023-02-11 09:18:40.156560,Espresso,1,2.99,Efectivo
+2023-02-17 14:31:25.829610,Mocaccino,1,5.84,Tarjeta de Débito
+2023-04-05 06:45:46.752532,Capuchino,3,6.59,Efectivo
+2023-12-17 11:04:41.414460,Capuchino,2,3.23,Tarjeta de Crédito
+2023-01-07 07:09:55.679835,Muffin,1,14.99,Efectivo
+2023-11-16 02:38:55.205111,Galleta,2,3.35,Tarjeta de Crédito
+2023-11-30 23:22:22.398837,Sandwich de Jamón y Queso,1,6.34,Tarjeta de Crédito
+2023-06-06 23:07:15.435527,Chocolate Caliente,1,12.79,Efectivo
+2023-07-20 15:17:24.329550,Brownie,1,10.22,Tarjeta de Débito
+2023-08-22 02:21:51.703860,Té Verde,2,6.86,Pago Móvil
+2023-09-10 04:52:56.780810,Jugo de Naranja,3,6.04,Pago Móvil
+2023-12-13 17:05:09.766213,Té Verde,3,7.62,Pago Móvil
+2023-03-13 00:15:23.962355,Muffin,2,2.61,Pago Móvil
+2023-02-18 16:17:35.048199,Mocaccino,2,10.51,Tarjeta de Crédito
+2023-03-06 11:43:21.811188,Café Americano,1,2.59,Tarjeta de Débito
+2023-04-29 00:19:06.187955,Chocolate Caliente,1,3.52,Tarjeta de Crédito
+2023-04-21 07:20:14.302472,Jugo de Naranja,1,3.99,Tarjeta de Crédito
+2023-11-03 07:07:56.502857,Brownie,4,12.36,Tarjeta de Crédito
+2023-05-01 18:17:05.367549,Espresso,2,5.23,Tarjeta de Débito
+2023-01-03 06:21:23.355589,Sandwich de Jamón y Queso,2,9.82,Efectivo
+2023-05-20 21:17:10.312569,Espresso,3,12.16,Pago Móvil
+2023-07-31 22:43:14.667042,Capuchino,1,9.75,Tarjeta de Débito
+2023-08-12 10:26:05.465438,Té Negro,3,5.78,Tarjeta de Crédito
+2023-06-29 00:23:31.478065,Croissant,3,4.51,Tarjeta de Débito
+2023-11-23 02:46:20.272944,Muffin,1,5.39,Efectivo
+2023-08-29 06:39:07.002058,Té Verde,2,13.59,Pago Móvil
+2023-04-05 03:07:43.464883,Té Negro,1,3.16,Efectivo
+2023-02-07 08:33:42.758130,Capuchino,4,9.38,Tarjeta de Crédito
+2023-07-31 00:57:17.292774,Croissant,3,3.28,Tarjeta de Crédito
+2023-12-07 05:23:33.619082,Café Latte,1,6.29,Efectivo
+2023-02-26 22:13:37.913524,Té Negro,4,13.76,Tarjeta de Crédito
+2023-07-21 05:57:53.892188,Chocolate Caliente,3,4.85,Tarjeta de Crédito
+2023-04-27 09:52:08.740048,Galleta,3,10.15,Pago Móvil
+2023-02-19 05:49:25.999734,Croissant,2,14.74,Tarjeta de Crédito
+2023-09-06 05:42:53.483453,Té Verde,3,2.77,Tarjeta de Crédito
+2023-09-21 08:23:42.922545,Muffin,3,5.73,Pago Móvil
+2023-12-03 15:16:23.814096,Muffin,2,13.77,Tarjeta de Crédito
+2023-02-02 23:36:31.123114,Croissant,1,9.04,Tarjeta de Débito
+2023-02-12 09:07:26.906785,Sandwich de Jamón y Queso,1,9.67,Tarjeta de Crédito
+2023-08-18 15:05:37.256628,Chocolate Caliente,3,11.27,Tarjeta de Crédito
+2023-09-15 00:45:05.789165,Croissant,3,4.11,Efectivo
+2023-02-20 15:05:18.034951,Chocolate Caliente,4,10.59,Tarjeta de Débito
+2023-02-08 22:51:07.623899,Espresso,2,9.84,Tarjeta de Crédito
+2023-11-04 10:16:47.919209,Croissant,3,12.91,Tarjeta de Débito
+2023-04-18 14:37:48.898210,Muffin,1,10.06,Tarjeta de Débito
+2023-09-06 08:23:59.867633,Sandwich de Jamón y Queso,1,13.6,Efectivo
+2023-02-03 05:27:56.223300,Galleta,2,9.48,Tarjeta de Débito
+2023-05-29 01:55:02.088642,Galleta,4,9.54,Tarjeta de Débito
+2023-10-31 05:07:01.094485,Café Americano,2,12.73,Pago Móvil
+2023-01-31 23:21:30.346430,Té Negro,4,13.2,Tarjeta de Débito
+2023-09-21 22:57:40.809893,Mocaccino,1,11.58,Tarjeta de Crédito
+2023-04-07 16:44:14.466860,Espresso,2,8.11,Efectivo
+2023-03-09 23:19:37.127147,Brownie,2,13.29,Efectivo
+2023-10-02 07:17:18.250775,Mocaccino,1,13.96,Pago Móvil
+2023-12-16 11:24:27.583973,Jugo de Naranja,4,8.17,Efectivo
+2023-02-06 16:00:57.900870,Muffin,4,12.94,Pago Móvil
+2023-09-05 00:46:27.233327,Espresso,3,7.88,Pago Móvil
+2023-10-07 12:18:12.669066,Brownie,3,8.13,Tarjeta de Débito
+2023-05-23 01:09:38.030476,Café Latte,4,3.28,Efectivo
+2023-02-25 05:11:44.356281,Café Latte,1,7.31,Tarjeta de Débito
+2023-08-30 17:46:07.583165,Capuchino,3,7.15,Tarjeta de Débito
+2023-06-28 13:59:13.038051,Chocolate Caliente,4,13.91,Tarjeta de Crédito
+2023-12-17 10:47:58.221381,Mocaccino,2,9.83,Tarjeta de Crédito
+2023-08-04 20:15:40.434767,Sandwich de Jamón y Queso,3,13.64,Efectivo
+2023-12-07 11:47:01.521257,Té Verde,1,10.34,Pago Móvil
+2023-02-16 05:50:14.841708,Té Verde,3,7.31,Tarjeta de Crédito
+2023-10-27 02:54:26.710179,Mocaccino,4,3.85,Tarjeta de Crédito
+2023-11-22 06:03:31.864497,Espresso,4,10.1,Tarjeta de Débito
+2023-09-30 18:00:49.525623,Muffin,1,2.98,Pago Móvil
+2023-06-21 21:50:57.494349,Café Americano,1,13.87,Tarjeta de Débito
+2023-10-21 07:24:30.720267,Muffin,4,7.76,Pago Móvil
+2023-09-11 23:29:34.094310,Brownie,3,8.22,Pago Móvil
+2023-04-17 20:12:48.078524,Brownie,4,13.28,Tarjeta de Débito
+2023-03-17 10:24:16.500952,Mocaccino,4,4.86,Efectivo
+2023-07-31 09:50:44.398789,Croissant,4,8.0,Efectivo
+2023-09-13 06:50:53.452419,Capuchino,3,14.56,Tarjeta de Débito
+2023-03-12 17:32:42.956049,Galleta,3,9.59,Efectivo
+2023-02-04 09:26:42.223361,Té Verde,2,5.99,Tarjeta de Crédito
+2023-06-30 16:44:33.942916,Muffin,1,2.55,Tarjeta de Débito
+2023-02-20 19:11:42.453927,Té Verde,4,7.68,Efectivo
+2023-12-19 18:50:29.114373,Té Verde,4,5.9,Efectivo
+2023-04-13 17:50:14.664781,Brownie,4,13.12,Tarjeta de Débito
+2023-08-05 02:18:38.330319,Té Negro,4,11.0,Tarjeta de Crédito
+2023-11-22 15:23:08.614452,Croissant,3,8.85,Tarjeta de Crédito
+2023-07-14 21:19:10.699251,Croissant,4,7.53,Efectivo
+2023-05-05 03:45:23.853197,Café Latte,3,11.9,Efectivo
+2023-04-30 23:35:04.332560,Café Americano,3,10.52,Pago Móvil
+2023-03-08 09:03:22.411687,Espresso,2,11.48,Efectivo
+2023-07-16 00:56:17.911414,Mocaccino,1,10.47,Tarjeta de Crédito
+2023-02-20 13:42:36.756795,Espresso,1,13.04,Efectivo
+2023-08-12 20:36:27.258896,Galleta,3,8.57,Efectivo
+2023-05-25 18:06:25.606396,Brownie,4,8.3,Pago Móvil
+2023-08-06 19:08:16.178837,Espresso,4,13.76,Efectivo
+2023-06-08 13:40:05.393578,Capuchino,3,8.08,Efectivo
+2023-01-27 19:56:26.944908,Té Negro,1,11.78,Pago Móvil
+2023-01-12 02:54:48.405923,Muffin,1,12.54,Efectivo
+2023-08-30 05:33:14.940174,Mocaccino,2,10.8,Efectivo
+2023-04-03 02:46:41.957843,Capuchino,1,11.33,Tarjeta de Débito
+2023-05-10 17:04:43.114062,Café Latte,2,12.98,Tarjeta de Débito
+2023-05-31 01:54:49.800737,Jugo de Naranja,3,12.81,Tarjeta de Débito
+2023-11-23 11:39:32.088368,Mocaccino,3,11.25,Tarjeta de Crédito
+2023-10-23 18:32:27.770486,Té Negro,2,13.16,Pago Móvil
+2023-11-03 13:33:01.135295,Brownie,2,9.16,Tarjeta de Débito
+2023-02-28 06:45:20.433034,Brownie,2,11.15,Efectivo
+2023-04-15 16:52:55.471399,Sandwich de Jamón y Queso,1,10.58,Pago Móvil
+2023-06-18 09:41:15.222511,Galleta,2,8.62,Tarjeta de Débito
+2023-02-24 07:58:39.901183,Café Latte,3,2.83,Efectivo
+2023-03-28 00:21:16.086829,Galleta,3,7.15,Tarjeta de Crédito
+2023-12-30 08:57:58.627733,Café Latte,4,13.47,Pago Móvil
+2023-07-26 00:21:34.246496,Capuchino,2,4.15,Pago Móvil
+2023-01-09 08:46:14.838250,Chocolate Caliente,4,2.52,Pago Móvil
+2023-05-28 19:09:55.467099,Café Americano,4,11.39,Pago Móvil
+2023-04-02 08:31:18.902707,Brownie,3,11.15,Tarjeta de Débito
+2023-05-15 20:57:34.939192,Café Latte,2,10.05,Efectivo
+2023-10-31 11:47:42.959574,Sandwich de Jamón y Queso,2,8.12,Tarjeta de Débito
+2023-02-07 18:13:57.344188,Jugo de Naranja,3,3.9,Tarjeta de Débito
+2023-04-26 00:27:41.790496,Café Latte,3,14.81,Tarjeta de Débito
+2023-07-23 22:27:38.096403,Croissant,2,14.41,Pago Móvil
+2023-12-04 05:52:51.064906,Café Latte,1,8.34,Tarjeta de Débito
+2023-11-03 16:17:20.981042,Brownie,2,3.66,Tarjeta de Débito
+2023-09-07 17:51:46.188788,Galleta,3,4.51,Pago Móvil
+2023-12-10 11:10:31.332114,Brownie,1,6.9,Tarjeta de Débito
+2023-03-04 12:15:39.606040,Té Negro,2,8.92,Tarjeta de Crédito
+2023-12-22 00:16:05.417075,Café Latte,4,7.31,Tarjeta de Crédito
+2023-08-05 02:13:36.884341,Mocaccino,4,4.28,Tarjeta de Crédito
+2023-01-08 04:23:20.438049,Sandwich de Jamón y Queso,4,7.14,Tarjeta de Crédito
+2023-05-02 08:56:12.606746,Galleta,3,14.42,Tarjeta de Débito
+2023-12-04 16:47:55.830484,Brownie,3,11.05,Tarjeta de Crédito
+2023-09-14 14:13:41.598264,Chocolate Caliente,2,5.16,Tarjeta de Débito
+2023-03-29 00:45:08.517639,Galleta,4,14.07,Tarjeta de Crédito
+2023-11-22 16:58:04.014796,Chocolate Caliente,2,14.28,Tarjeta de Débito
+2023-03-11 12:38:12.954002,Espresso,2,11.16,Pago Móvil
+2023-08-23 22:06:01.433881,Té Negro,3,11.48,Tarjeta de Débito
+2023-08-07 00:56:19.259873,Mocaccino,3,14.68,Tarjeta de Crédito
+2023-06-22 19:03:57.595450,Té Negro,1,5.4,Efectivo
+2023-09-29 23:22:09.873847,Chocolate Caliente,3,7.27,Pago Móvil
+2023-06-04 02:14:32.783360,Croissant,4,10.1,Pago Móvil
+2023-01-03 20:28:58.356194,Brownie,4,11.79,Tarjeta de Débito
+2023-07-07 19:09:03.611470,Sandwich de Jamón y Queso,1,7.34,Tarjeta de Crédito
+2023-10-13 04:09:05.191413,Café Latte,4,8.21,Efectivo
+2023-03-04 12:11:49.777778,Brownie,2,10.97,Pago Móvil
+2023-04-17 02:22:13.079269,Café Latte,4,12.28,Pago Móvil
+2023-07-29 05:44:11.201325,Muffin,4,12.41,Tarjeta de Crédito
+2023-02-15 14:17:09.135029,Brownie,2,7.92,Efectivo
+2023-11-10 22:42:12.541066,Jugo de Naranja,3,11.05,Pago Móvil
+2023-05-21 08:59:57.639094,Chocolate Caliente,3,11.48,Pago Móvil
+2023-09-20 10:12:46.275995,Muffin,1,10.7,Efectivo
+2023-11-25 05:49:49.888727,Capuchino,1,5.83,Pago Móvil
+2023-04-24 08:19:18.160515,Espresso,1,7.9,Tarjeta de Débito
+2023-03-28 12:51:48.442969,Café Latte,2,9.18,Efectivo
+2023-11-21 13:36:54.865522,Croissant,2,11.12,Pago Móvil
+2023-08-25 19:47:18.549997,Brownie,3,14.72,Tarjeta de Débito
+2023-08-18 04:22:51.606556,Muffin,4,5.97,Tarjeta de Débito
+2023-02-03 22:19:37.418817,Té Verde,1,6.46,Tarjeta de Débito
+2023-09-10 22:14:41.072387,Sandwich de Jamón y Queso,2,12.09,Tarjeta de Débito
+2023-04-19 15:55:33.814133,Té Negro,4,5.55,Tarjeta de Débito
+2023-03-12 19:52:26.302708,Café Americano,4,12.61,Pago Móvil
+2023-03-05 17:02:47.390659,Chocolate Caliente,2,11.5,Tarjeta de Crédito
+2023-04-20 06:06:44.382510,Café Americano,3,5.55,Efectivo
+2023-09-13 04:19:36.910083,Sandwich de Jamón y Queso,2,12.33,Efectivo
+2023-10-25 04:42:44.699663,Croissant,1,4.6,Tarjeta de Crédito
+2023-12-09 00:06:09.894827,Capuchino,2,14.11,Efectivo
+2023-06-06 15:54:25.252274,Espresso,4,14.37,Tarjeta de Crédito
+2023-03-17 22:14:23.195769,Café Americano,3,8.77,Pago Móvil
+2023-11-17 16:01:00.328107,Galleta,3,7.12,Tarjeta de Débito
+2023-07-07 06:53:38.066204,Galleta,2,9.85,Pago Móvil
+2023-06-08 18:25:25.378658,Sandwich de Jamón y Queso,2,9.19,Efectivo
+2023-11-10 09:11:06.839216,Muffin,4,5.64,Tarjeta de Crédito
+2023-01-06 05:22:04.130740,Capuchino,4,14.44,Tarjeta de Crédito
+2023-11-30 09:27:21.983749,Brownie,3,6.33,Tarjeta de Crédito
+2023-09-03 23:31:22.801315,Croissant,2,7.81,Efectivo
+2023-01-20 09:01:00.241471,Té Negro,1,5.67,Tarjeta de Débito
+2023-05-31 17:34:03.882617,Galleta,3,14.21,Tarjeta de Crédito
+2023-11-13 23:09:12.137411,Mocaccino,1,8.06,Tarjeta de Débito
+2023-02-13 07:25:45.974253,Jugo de Naranja,4,14.45,Efectivo
+2023-01-05 02:19:26.865516,Jugo de Naranja,1,6.19,Pago Móvil
+2023-05-06 12:33:54.913751,Té Negro,1,9.11,Efectivo
+2023-12-17 01:22:18.632078,Brownie,2,3.4,Tarjeta de Débito
+2023-03-17 02:18:16.989624,Mocaccino,4,14.38,Tarjeta de Débito
+2023-02-08 06:32:08.479882,Sandwich de Jamón y Queso,1,10.85,Efectivo
+2023-02-21 20:15:04.192227,Muffin,4,14.21,Tarjeta de Débito
+2023-01-21 23:42:52.226037,Café Latte,1,2.9,Tarjeta de Crédito
+2023-06-18 14:22:29.715105,Brownie,1,7.31,Tarjeta de Débito
+2023-11-27 14:54:34.656263,Croissant,2,3.47,Efectivo
+2023-02-23 01:16:56.520526,Galleta,1,3.9,Efectivo
+2023-06-04 00:32:24.191785,Té Negro,1,13.76,Tarjeta de Débito
+2023-09-25 07:46:19.896260,Café Latte,1,7.37,Efectivo
+2023-06-03 01:14:54.080718,Brownie,1,8.42,Efectivo
+2023-12-03 02:44:42.697717,Brownie,3,7.46,Efectivo
+2023-02-01 04:01:01.311965,Café Americano,1,12.68,Tarjeta de Crédito
+2023-05-04 04:17:31.153864,Café Americano,3,13.83,Pago Móvil
+2023-08-19 19:11:20.221775,Jugo de Naranja,4,14.31,Pago Móvil
+2023-01-10 00:58:30.898057,Galleta,3,9.25,Pago Móvil
+2023-08-09 00:40:44.075379,Té Verde,4,5.16,Tarjeta de Débito
+2023-11-26 18:37:22.894259,Jugo de Naranja,3,2.56,Pago Móvil
+2023-11-07 08:25:35.689302,Jugo de Naranja,1,11.15,Tarjeta de Débito
+2023-04-02 02:57:59.000506,Té Verde,3,5.71,Efectivo
+2023-03-05 18:12:25.183832,Café Latte,3,6.27,Tarjeta de Débito
+2023-01-05 21:53:26.226450,Té Negro,3,8.95,Pago Móvil
+2023-02-19 06:09:52.484605,Café Americano,3,4.69,Efectivo
+2023-10-20 11:49:24.606816,Galleta,1,9.78,Pago Móvil
+2023-02-22 14:21:18.571154,Brownie,1,10.7,Pago Móvil
+2023-10-24 00:41:23.651779,Té Negro,3,3.72,Tarjeta de Débito
+2023-12-12 16:05:29.818534,Brownie,4,5.2,Efectivo
+2023-04-18 12:10:46.599170,Café Latte,4,8.55,Efectivo
+2023-01-21 16:19:34.017050,Muffin,4,4.16,Pago Móvil
+2023-09-06 10:49:00.009077,Café Americano,2,6.64,Pago Móvil
+2023-03-09 07:01:00.409382,Muffin,3,5.79,Tarjeta de Débito
+2023-05-25 03:55:01.598189,Café Latte,4,8.49,Pago Móvil
+2023-04-01 21:43:14.353406,Sandwich de Jamón y Queso,1,11.9,Efectivo
+2023-07-28 00:02:42.812942,Café Americano,1,5.8,Pago Móvil
+2023-03-11 16:36:46.184600,Café Latte,3,13.11,Tarjeta de Crédito
+2023-07-21 03:46:15.815968,Jugo de Naranja,4,6.12,Tarjeta de Débito
+2023-02-15 20:50:47.900211,Muffin,3,5.92,Tarjeta de Débito
+2023-10-18 17:09:41.462800,Croissant,2,6.36,Tarjeta de Crédito
+2023-08-26 16:46:20.736619,Té Negro,2,10.23,Efectivo
+2023-06-08 05:45:03.369576,Espresso,2,3.69,Tarjeta de Crédito
+2023-12-18 20:34:46.309908,Sandwich de Jamón y Queso,4,14.75,Pago Móvil
+2023-11-26 15:54:29.406332,Muffin,3,12.13,Pago Móvil
+2023-08-28 09:39:55.630572,Espresso,3,12.38,Efectivo
+2023-09-17 20:57:17.975957,Sandwich de Jamón y Queso,2,13.84,Efectivo
+2023-03-05 04:13:44.057166,Chocolate Caliente,1,13.74,Efectivo
+2023-06-09 07:53:16.591782,Jugo de Naranja,4,9.42,Tarjeta de Débito
+2023-07-05 15:56:47.133314,Galleta,3,6.98,Tarjeta de Débito
+2023-08-12 23:43:42.506833,Sandwich de Jamón y Queso,1,6.58,Tarjeta de Crédito
+2023-06-10 15:31:14.413135,Mocaccino,4,4.88,Pago Móvil
+2023-12-14 21:05:57.831225,Té Verde,1,5.32,Tarjeta de Crédito
+2023-09-15 13:06:21.950833,Jugo de Naranja,2,8.69,Tarjeta de Débito
+2023-04-08 04:57:57.276570,Café Americano,4,13.79,Tarjeta de Débito
+2023-01-13 16:47:44.237619,Galleta,2,5.16,Efectivo
+2023-07-09 21:10:10.776091,Espresso,3,12.67,Pago Móvil
+2023-11-24 02:30:46.559061,Té Negro,2,13.53,Tarjeta de Crédito
+2023-11-28 19:48:56.585530,Café Latte,4,12.19,Efectivo
+2023-12-14 19:11:40.994601,Jugo de Naranja,4,6.95,Efectivo
+2023-03-26 17:52:01.962127,Jugo de Naranja,3,7.22,Pago Móvil
+2023-03-30 02:47:11.288889,Capuchino,1,8.69,Efectivo
+2023-08-06 14:55:45.296924,Sandwich de Jamón y Queso,1,10.62,Tarjeta de Crédito
+2023-02-19 01:22:35.539288,Brownie,4,10.87,Tarjeta de Débito
+2023-02-18 02:10:01.686448,Sandwich de Jamón y Queso,4,10.17,Efectivo
+2023-08-20 05:48:16.366273,Croissant,3,11.49,Tarjeta de Crédito
+2023-06-11 09:04:03.950312,Sandwich de Jamón y Queso,4,5.87,Efectivo
+2023-12-18 05:54:22.505261,Galleta,1,9.41,Tarjeta de Débito
+2023-07-28 15:49:02.389115,Té Negro,4,6.26,Pago Móvil
+2023-10-16 08:02:57.031065,Croissant,3,12.06,Pago Móvil
+2023-02-23 23:05:10.834351,Chocolate Caliente,4,7.32,Tarjeta de Débito
+2023-05-27 12:11:49.279551,Chocolate Caliente,2,12.1,Tarjeta de Crédito
+2023-11-24 16:01:15.580198,Capuchino,1,8.33,Efectivo
+2023-11-14 22:14:06.756009,Sandwich de Jamón y Queso,1,10.98,Efectivo
+2023-11-17 00:13:34.854557,Espresso,2,10.75,Tarjeta de Crédito
+2023-06-28 13:34:24.506016,Muffin,4,3.54,Tarjeta de Crédito
+2023-11-11 06:02:50.582327,Café Latte,1,6.66,Tarjeta de Débito
+2023-06-16 21:26:10.972183,Jugo de Naranja,3,13.66,Pago Móvil
+2023-10-05 09:26:51.028490,Chocolate Caliente,3,4.72,Tarjeta de Débito
+2023-05-03 01:50:40.059433,Té Negro,2,14.05,Tarjeta de Débito
+2023-07-22 15:00:29.160361,Capuchino,2,10.83,Efectivo
+2023-04-21 07:31:57.567385,Muffin,4,12.33,Pago Móvil
+2023-04-19 16:43:34.085055,Galleta,3,14.36,Efectivo
+2023-02-07 17:13:31.071213,Brownie,4,5.29,Efectivo
+2023-06-12 16:55:47.708101,Mocaccino,1,4.29,Tarjeta de Débito
+2023-10-24 11:49:55.222487,Café Latte,2,8.15,Pago Móvil
+2023-12-06 17:31:40.704252,Muffin,2,3.48,Tarjeta de Crédito
+2023-03-01 19:26:35.800941,Té Verde,1,3.44,Efectivo
+2023-01-24 11:33:01.889461,Sandwich de Jamón y Queso,3,8.8,Efectivo
+2023-03-01 10:30:35.150322,Té Verde,4,7.27,Pago Móvil
+2023-01-10 23:24:39.142067,Mocaccino,1,12.51,Tarjeta de Débito
+2023-09-29 03:30:44.118689,Capuchino,3,11.2,Pago Móvil
+2023-11-20 23:55:17.544859,Croissant,4,8.62,Tarjeta de Crédito
+2023-06-18 01:44:09.879190,Jugo de Naranja,2,11.67,Tarjeta de Débito
+2023-03-18 06:44:00.592202,Café Latte,3,13.31,Tarjeta de Débito
+2023-09-07 09:22:39.861378,Jugo de Naranja,1,13.86,Tarjeta de Crédito
+2023-01-04 04:24:37.764536,Té Negro,2,3.69,Tarjeta de Débito
+2023-12-14 23:38:59.676973,Sandwich de Jamón y Queso,3,12.8,Efectivo
+2023-07-05 02:49:46.153880,Espresso,3,13.71,Pago Móvil
+2023-09-04 09:52:09.039420,Jugo de Naranja,3,3.11,Tarjeta de Débito
+2023-06-19 16:42:01.175106,Mocaccino,2,11.09,Tarjeta de Débito
+2023-07-28 07:38:52.331425,Espresso,3,10.07,Tarjeta de Débito
+2023-04-15 15:53:02.519067,Café Americano,1,9.37,Efectivo
+2023-03-17 11:36:15.177405,Café Americano,3,12.37,Efectivo
+2023-12-13 10:07:16.627440,Brownie,1,13.87,Efectivo
+2023-01-25 01:01:01.976030,Té Negro,3,5.74,Tarjeta de Crédito
+2023-10-05 03:11:25.119782,Chocolate Caliente,3,14.49,Tarjeta de Débito
+2023-04-07 15:05:03.187542,Té Verde,2,2.59,Tarjeta de Débito
+2023-08-06 13:01:34.079034,Sandwich de Jamón y Queso,2,6.97,Tarjeta de Crédito
+2023-04-07 06:24:59.493590,Croissant,1,9.51,Tarjeta de Crédito
+2023-12-05 03:10:33.144835,Espresso,4,10.76,Tarjeta de Crédito
+2023-08-14 01:40:29.113122,Chocolate Caliente,2,7.23,Pago Móvil
+2023-05-02 08:47:41.017526,Brownie,4,8.06,Pago Móvil
+2023-04-09 23:34:35.354892,Espresso,3,7.76,Tarjeta de Crédito
+2023-09-08 14:31:21.597455,Jugo de Naranja,2,14.54,Tarjeta de Débito
+2023-11-25 04:42:31.592894,Espresso,2,14.82,Tarjeta de Crédito
+2023-02-11 22:31:19.853069,Galleta,4,9.08,Pago Móvil
+2023-04-04 23:26:08.163022,Sandwich de Jamón y Queso,4,3.92,Tarjeta de Débito
+2023-07-26 11:45:05.036543,Brownie,2,8.04,Efectivo
+2023-11-15 06:31:12.635107,Té Verde,2,6.65,Efectivo
+2023-06-13 06:51:50.351903,Espresso,2,8.19,Tarjeta de Crédito
+2023-12-28 22:56:05.143217,Té Negro,4,11.23,Tarjeta de Crédito
+2023-08-18 01:02:10.454184,Sandwich de Jamón y Queso,3,14.36,Efectivo
+2023-09-21 07:39:08.492506,Sandwich de Jamón y Queso,4,10.34,Pago Móvil
+2023-06-14 22:38:48.146025,Café Americano,3,6.07,Tarjeta de Crédito
+2023-07-29 04:00:36.358483,Croissant,1,10.03,Efectivo
+2023-01-06 10:34:18.827351,Té Negro,3,4.95,Tarjeta de Crédito
+2023-03-13 12:17:20.393293,Chocolate Caliente,4,9.65,Tarjeta de Débito
+2023-08-02 14:18:51.668167,Té Negro,2,11.34,Tarjeta de Crédito
+2023-07-30 15:29:22.745791,Croissant,3,6.21,Efectivo
+2023-05-23 11:26:53.326078,Muffin,1,6.55,Tarjeta de Crédito
+2023-07-28 11:30:57.043848,Café Latte,3,2.64,Efectivo
+2023-06-02 03:31:26.174553,Croissant,2,11.64,Tarjeta de Débito
+2023-10-28 19:55:12.650859,Sandwich de Jamón y Queso,2,13.4,Tarjeta de Débito
+2023-01-29 16:39:24.977654,Café Latte,2,7.89,Tarjeta de Débito
+2023-04-11 19:05:56.153287,Muffin,1,5.34,Tarjeta de Crédito
+2023-01-06 10:55:41.182578,Jugo de Naranja,4,13.82,Tarjeta de Débito
+2023-08-31 15:00:50.141466,Capuchino,4,2.64,Tarjeta de Crédito
+2023-10-12 08:27:21.609977,Brownie,4,6.79,Tarjeta de Crédito
+2023-11-21 06:51:46.118238,Espresso,3,11.81,Efectivo
+2023-02-22 20:28:56.365218,Capuchino,3,5.4,Efectivo
+2023-11-18 01:35:23.648243,Muffin,4,10.7,Efectivo
+2023-02-25 00:57:31.726179,Mocaccino,3,10.48,Tarjeta de Débito
+2023-01-17 10:23:39.915718,Jugo de Naranja,2,12.67,Efectivo
+2023-10-09 18:44:14.696449,Té Negro,1,9.14,Tarjeta de Crédito
+2023-01-12 05:50:53.103282,Café Latte,1,4.1,Efectivo
+2023-05-19 11:44:17.630060,Mocaccino,1,7.79,Tarjeta de Crédito
+2023-11-15 20:10:01.893610,Jugo de Naranja,3,3.31,Pago Móvil
+2023-05-29 10:55:22.336740,Espresso,2,5.84,Pago Móvil
+2023-01-16 15:17:19.012851,Chocolate Caliente,2,7.57,Pago Móvil
+2023-01-18 20:13:02.191649,Muffin,4,10.04,Efectivo
+2023-08-15 08:04:31.164571,Brownie,2,13.16,Tarjeta de Débito
+2023-02-08 18:23:38.151367,Café Latte,3,5.37,Pago Móvil
+2023-05-09 10:17:14.131165,Sandwich de Jamón y Queso,2,3.66,Pago Móvil
+2023-07-19 15:51:11.103301,Jugo de Naranja,3,2.96,Efectivo
+2023-01-14 04:58:28.979193,Brownie,4,13.42,Tarjeta de Débito
+2023-09-28 00:34:18.159712,Café Americano,3,6.44,Tarjeta de Débito
+2023-10-26 07:55:13.165807,Galleta,4,8.82,Pago Móvil
+2023-09-27 11:27:57.904677,Galleta,2,7.32,Pago Móvil
+2023-01-12 20:34:20.251254,Café Latte,4,4.72,Tarjeta de Crédito
+2023-07-23 03:48:36.312124,Té Negro,4,2.59,Pago Móvil
+2023-11-14 05:00:32.886635,Sandwich de Jamón y Queso,4,4.33,Pago Móvil
+2023-06-02 02:24:05.343787,Brownie,2,5.17,Pago Móvil
+2023-11-15 11:26:05.658492,Té Verde,4,12.62,Tarjeta de Crédito
+2023-09-06 03:26:14.727680,Té Negro,3,13.68,Efectivo
+2023-02-03 19:07:45.238480,Muffin,3,13.08,Pago Móvil
+2023-03-07 01:16:06.792857,Muffin,4,3.69,Tarjeta de Crédito
+2023-06-11 02:28:42.051038,Jugo de Naranja,4,13.69,Efectivo
+2023-01-21 07:44:30.084042,Croissant,4,14.46,Tarjeta de Débito
+2023-03-09 11:39:15.568190,Mocaccino,2,9.94,Pago Móvil
+2023-02-17 01:39:37.331209,Espresso,1,10.31,Efectivo
+2023-11-25 03:47:48.145440,Muffin,3,4.57,Tarjeta de Débito
+2023-04-04 04:29:17.663152,Chocolate Caliente,3,14.63,Tarjeta de Crédito
+2023-04-18 15:41:17.411849,Brownie,1,11.36,Efectivo
+2023-05-03 15:40:25.021251,Chocolate Caliente,3,8.8,Efectivo
+2023-03-27 10:19:53.511959,Mocaccino,2,13.03,Tarjeta de Débito
+2023-07-15 19:55:28.138743,Té Verde,4,5.37,Tarjeta de Débito
+2023-03-07 17:08:26.558900,Chocolate Caliente,1,14.34,Efectivo
+2024-01-01 05:18:16.679393,Café Latte,2,7.04,Tarjeta de Débito
+2023-03-09 19:02:17.690058,Té Verde,2,10.06,Efectivo
+2023-08-23 02:00:28.059068,Capuchino,3,12.02,Pago Móvil
+2023-05-27 12:10:53.807514,Café Americano,1,5.85,Tarjeta de Crédito
+2023-10-16 14:52:10.480862,Jugo de Naranja,4,7.25,Pago Móvil
+2023-04-06 19:19:42.111470,Muffin,3,14.38,Efectivo
+2023-01-29 22:05:09.592137,Galleta,1,9.44,Efectivo
+2023-10-03 17:15:29.866139,Café Americano,2,10.63,Tarjeta de Crédito
+2023-08-03 21:46:28.121847,Brownie,3,3.85,Tarjeta de Crédito
+2023-10-19 02:07:53.600707,Chocolate Caliente,2,11.98,Tarjeta de Débito
+2023-06-21 10:52:20.069909,Café Latte,3,4.65,Efectivo
+2023-07-08 18:22:40.859262,Muffin,2,11.8,Efectivo
+2023-12-15 03:35:07.563231,Sandwich de Jamón y Queso,1,12.25,Tarjeta de Débito
+2023-11-23 20:16:13.191816,Té Negro,3,2.52,Efectivo
+2023-09-13 19:24:19.025064,Chocolate Caliente,2,9.33,Pago Móvil
+2023-12-05 14:00:23.735141,Sandwich de Jamón y Queso,2,12.86,Pago Móvil
+2023-07-11 17:09:21.077771,Espresso,4,2.64,Efectivo
+2023-03-15 11:07:24.328930,Capuchino,1,14.61,Pago Móvil
+2023-12-27 09:38:56.437410,Jugo de Naranja,2,4.72,Tarjeta de Crédito
+2023-11-12 03:04:12.402568,Jugo de Naranja,3,7.34,Tarjeta de Débito
+2023-05-31 06:40:20.271868,Espresso,1,3.38,Pago Móvil
+2023-10-18 22:24:52.887969,Chocolate Caliente,2,9.42,Tarjeta de Débito
+2023-05-29 19:22:48.671756,Té Negro,4,8.52,Efectivo
+2023-11-28 18:10:04.560171,Café Americano,1,13.17,Tarjeta de Débito
+2023-07-14 23:20:20.121582,Té Verde,4,9.37,Tarjeta de Débito
+2023-02-11 13:12:31.965422,Jugo de Naranja,4,9.11,Tarjeta de Crédito
+2023-03-19 11:58:43.913907,Té Negro,1,2.85,Tarjeta de Débito
+2023-07-08 12:35:48.548793,Brownie,1,6.37,Pago Móvil
+2023-01-24 05:11:47.935792,Capuchino,3,4.47,Pago Móvil
+2023-08-03 02:01:21.224973,Espresso,1,12.33,Pago Móvil
+2023-08-01 22:57:18.776328,Croissant,4,9.06,Tarjeta de Débito
+2023-02-03 09:49:30.400417,Café Latte,1,6.89,Tarjeta de Débito
+2023-04-24 13:38:41.324961,Chocolate Caliente,3,9.28,Pago Móvil
+2023-09-10 23:15:36.579579,Chocolate Caliente,3,13.49,Pago Móvil
+2023-05-03 18:39:56.105029,Café Latte,3,13.74,Tarjeta de Crédito
+2023-02-05 18:38:33.717885,Capuchino,1,4.95,Tarjeta de Débito
+2023-04-01 15:45:15.294034,Espresso,3,13.22,Efectivo
+2023-09-14 23:41:40.052751,Té Negro,1,2.57,Tarjeta de Débito
+2023-09-28 14:11:55.642229,Galleta,2,14.5,Tarjeta de Crédito
+2023-04-14 21:13:04.045048,Capuchino,4,10.25,Tarjeta de Débito
+2023-12-19 09:36:28.940409,Café Americano,4,3.82,Tarjeta de Crédito
+2023-03-04 21:36:35.466109,Capuchino,1,13.77,Efectivo
+2023-11-10 05:54:30.295458,Té Negro,3,2.9,Tarjeta de Débito
+2023-01-06 21:55:14.547640,Café Latte,2,14.6,Tarjeta de Crédito
+2023-03-08 13:30:43.495233,Café Latte,3,5.33,Pago Móvil
+2023-03-06 23:58:54.306113,Jugo de Naranja,4,12.31,Tarjeta de Débito
+2023-01-17 19:22:18.576755,Galleta,2,4.82,Pago Móvil
+2023-10-24 17:12:38.663340,Espresso,1,12.77,Tarjeta de Débito
+2023-09-23 17:20:33.494789,Mocaccino,3,6.24,Tarjeta de Crédito
+2023-12-05 01:21:47.730866,Jugo de Naranja,4,14.04,Tarjeta de Débito
+2023-04-14 19:05:21.286818,Galleta,4,8.34,Pago Móvil
+2023-09-04 08:14:03.531824,Muffin,3,12.57,Efectivo
+2023-06-03 01:11:12.620928,Té Negro,1,13.15,Tarjeta de Crédito
+2023-02-25 13:53:16.737724,Espresso,3,6.21,Pago Móvil
+2023-05-10 13:34:15.832713,Chocolate Caliente,1,3.12,Tarjeta de Débito
+2023-01-15 19:53:53.488560,Té Verde,3,9.96,Tarjeta de Crédito
+2023-02-11 20:02:11.120354,Té Verde,1,10.0,Tarjeta de Crédito
+2023-09-08 23:32:03.791514,Galleta,4,3.04,Tarjeta de Débito
+2023-12-27 12:55:44.696052,Espresso,3,6.52,Tarjeta de Crédito
+2023-07-18 15:41:59.871608,Mocaccino,1,14.49,Tarjeta de Débito
+2023-09-15 08:16:16.881519,Jugo de Naranja,4,7.81,Tarjeta de Crédito
+2023-09-21 07:02:04.721495,Jugo de Naranja,2,9.85,Pago Móvil
+2023-12-27 20:19:37.864226,Croissant,4,14.91,Pago Móvil
+2023-09-11 20:28:42.443019,Espresso,4,7.58,Pago Móvil
+2023-09-04 17:58:56.510066,Capuchino,2,6.57,Pago Móvil
+2023-08-28 15:31:07.883317,Té Negro,2,14.2,Tarjeta de Crédito
+2023-07-19 07:30:00.672505,Café Americano,1,8.67,Pago Móvil
+2023-02-03 05:53:02.663057,Brownie,2,3.11,Pago Móvil
+2023-01-08 11:32:12.507939,Sandwich de Jamón y Queso,2,3.48,Tarjeta de Débito
+2023-05-12 14:08:47.073562,Café Americano,1,11.62,Tarjeta de Débito
+2023-01-01 20:45:17.950527,Sandwich de Jamón y Queso,1,7.96,Tarjeta de Crédito
+2023-11-04 22:24:57.208814,Té Negro,3,6.97,Pago Móvil
+2023-10-04 08:45:15.613731,Sandwich de Jamón y Queso,2,10.84,Efectivo
+2023-05-14 00:55:36.004589,Brownie,3,12.78,Pago Móvil
+2023-02-13 15:25:22.939836,Jugo de Naranja,3,5.33,Tarjeta de Crédito
+2023-04-18 16:18:59.480406,Té Verde,4,14.76,Tarjeta de Débito
+2023-11-13 02:35:06.329258,Chocolate Caliente,1,14.13,Pago Móvil
+2023-06-02 09:19:42.271886,Capuchino,1,14.85,Efectivo
+2023-12-31 21:01:49.786088,Té Verde,1,3.04,Efectivo
+2023-11-01 20:41:04.389464,Mocaccino,2,8.75,Pago Móvil
+2023-09-01 01:30:02.149910,Sandwich de Jamón y Queso,3,5.58,Efectivo
+2023-03-12 17:11:35.273604,Chocolate Caliente,1,10.9,Efectivo
+2023-02-04 02:24:50.568645,Espresso,1,13.16,Tarjeta de Crédito
+2023-08-10 20:08:30.559651,Té Negro,1,5.17,Tarjeta de Crédito
+2023-09-17 14:13:58.673879,Brownie,4,6.37,Tarjeta de Crédito
+2023-02-07 22:56:34.718425,Mocaccino,2,10.65,Pago Móvil
+2023-04-24 19:17:31.739516,Sandwich de Jamón y Queso,3,9.89,Tarjeta de Débito
+2023-09-26 07:07:17.741441,Mocaccino,4,12.14,Efectivo
+2023-06-30 09:48:00.090580,Espresso,1,13.46,Tarjeta de Débito
+2023-08-25 21:58:00.467976,Té Negro,4,7.52,Pago Móvil
+2023-01-30 21:28:05.446536,Té Verde,2,4.93,Tarjeta de Débito
+2023-11-18 16:51:44.845230,Té Verde,4,9.2,Pago Móvil
+2023-01-23 14:34:44.247102,Capuchino,3,7.94,Pago Móvil
+2023-02-13 21:45:11.633956,Té Verde,1,12.48,Tarjeta de Débito
+2023-08-16 14:36:43.359308,Té Negro,3,3.1,Efectivo
+2023-02-12 23:44:15.747781,Brownie,1,6.62,Pago Móvil
+2023-09-07 13:51:32.895519,Sandwich de Jamón y Queso,4,12.11,Pago Móvil
+2023-06-29 21:26:06.561344,Té Verde,3,5.19,Efectivo
+2023-07-08 06:30:58.178052,Sandwich de Jamón y Queso,2,6.96,Efectivo
+2023-12-17 14:52:49.149642,Té Verde,2,2.97,Pago Móvil
+2023-06-20 19:15:00.832683,Sandwich de Jamón y Queso,1,12.63,Efectivo
+2023-11-02 20:13:32.649812,Jugo de Naranja,4,9.04,Tarjeta de Crédito
+2023-07-24 13:14:12.056143,Chocolate Caliente,2,2.55,Tarjeta de Crédito
+2023-08-27 03:21:12.438003,Café Latte,4,11.27,Tarjeta de Débito
+2023-02-20 18:31:10.030151,Muffin,4,14.81,Pago Móvil
+2023-04-28 12:30:28.556859,Café Latte,2,8.55,Efectivo
+2023-03-11 08:31:30.162298,Mocaccino,1,8.23,Pago Móvil
+2023-02-01 13:39:55.332771,Té Negro,3,6.69,Efectivo
+2023-12-16 23:00:44.859620,Muffin,2,11.42,Tarjeta de Crédito
+2023-05-01 12:26:07.625296,Mocaccino,1,3.71,Efectivo
+2023-05-23 16:26:37.139515,Chocolate Caliente,3,12.79,Tarjeta de Crédito
+2023-05-30 14:43:20.571834,Sandwich de Jamón y Queso,3,14.19,Efectivo
+2023-06-01 12:18:29.260146,Jugo de Naranja,4,4.56,Efectivo
+2023-12-27 18:11:07.441557,Croissant,1,14.83,Efectivo
+2023-07-22 20:18:35.902815,Espresso,4,10.02,Tarjeta de Crédito
+2023-05-21 02:20:49.965108,Té Negro,4,13.95,Tarjeta de Crédito
+2023-12-12 04:47:48.927184,Muffin,3,6.72,Tarjeta de Débito
+2023-03-24 14:53:15.068421,Espresso,1,12.72,Efectivo
+2023-07-30 14:49:15.745217,Jugo de Naranja,1,14.33,Pago Móvil
+2023-04-17 18:32:38.833492,Galleta,4,6.78,Efectivo
+2023-03-04 05:19:52.877815,Mocaccino,3,11.74,Efectivo
+2023-09-19 15:21:01.957825,Chocolate Caliente,2,10.68,Pago Móvil
+2023-01-06 21:27:27.625710,Galleta,2,9.08,Tarjeta de Crédito
+2023-10-04 04:14:59.532384,Mocaccino,4,9.49,Pago Móvil
+2023-02-24 13:49:49.547090,Galleta,2,9.99,Efectivo
+2023-06-14 00:45:04.174043,Brownie,1,2.77,Tarjeta de Débito
+2023-01-07 07:35:41.611444,Té Negro,2,7.23,Efectivo
+2023-10-19 18:19:00.276712,Café Latte,4,4.94,Efectivo
+2023-10-23 09:34:54.151334,Té Negro,1,9.77,Efectivo
+2023-08-11 12:36:36.432806,Capuchino,4,9.27,Tarjeta de Crédito
+2023-07-28 00:32:28.525213,Sandwich de Jamón y Queso,1,6.61,Efectivo
+2023-04-21 05:17:15.775897,Jugo de Naranja,2,5.59,Pago Móvil
+2023-05-01 16:12:15.843680,Chocolate Caliente,2,4.3,Efectivo
+2023-02-11 08:50:10.253370,Galleta,2,2.99,Efectivo
+2023-10-09 22:17:43.591868,Chocolate Caliente,4,10.54,Pago Móvil
+2023-08-13 02:09:30.718364,Café Americano,3,5.2,Tarjeta de Crédito
+2023-11-14 15:40:44.408471,Café Latte,3,10.62,Efectivo
+2023-12-29 10:55:54.021642,Jugo de Naranja,4,3.3,Efectivo
+2023-12-04 15:47:58.066980,Té Verde,2,9.75,Pago Móvil
+2023-09-15 11:21:22.936235,Café Americano,3,9.6,Efectivo
+2023-09-18 12:40:11.328014,Muffin,3,7.65,Tarjeta de Crédito
+2023-05-22 17:20:03.731801,Café Latte,3,7.96,Pago Móvil
+2023-10-16 06:55:29.082514,Brownie,3,14.13,Efectivo
+2023-09-09 09:59:53.853231,Café Latte,3,9.78,Pago Móvil
+2023-02-23 16:00:35.563372,Croissant,4,5.59,Efectivo
+2023-12-20 01:11:27.120387,Jugo de Naranja,4,11.29,Tarjeta de Crédito
+2023-03-31 08:03:43.044822,Té Negro,2,9.26,Efectivo
+2023-05-12 05:47:27.993141,Té Verde,2,5.76,Pago Móvil
+2023-11-06 21:50:51.436736,Muffin,4,3.07,Tarjeta de Crédito
+2023-07-19 15:36:25.208469,Mocaccino,2,8.01,Efectivo
+2023-10-20 03:00:41.813595,Espresso,2,5.44,Efectivo
+2023-06-21 18:28:24.780007,Café Latte,3,9.06,Tarjeta de Débito
+2023-09-13 00:18:40.252284,Chocolate Caliente,2,5.25,Tarjeta de Crédito
+2023-11-13 06:22:34.708194,Café Americano,4,12.29,Tarjeta de Débito
+2023-04-27 04:51:38.606611,Galleta,1,5.57,Pago Móvil
+2023-06-01 23:55:26.006788,Galleta,1,7.04,Tarjeta de Crédito
+2023-04-14 23:56:29.761847,Sandwich de Jamón y Queso,4,6.92,Tarjeta de Crédito
+2023-12-18 20:59:14.861938,Muffin,4,4.32,Efectivo
+2023-04-09 16:22:01.180408,Té Negro,3,2.84,Tarjeta de Crédito
+2023-04-12 17:04:34.723229,Chocolate Caliente,4,4.35,Pago Móvil
+2023-10-15 23:52:03.741769,Sandwich de Jamón y Queso,2,11.23,Pago Móvil
+2023-04-12 16:02:16.944834,Chocolate Caliente,3,13.79,Pago Móvil
+2023-08-09 09:12:02.987229,Capuchino,2,11.92,Tarjeta de Crédito
+2023-05-11 04:15:32.150206,Mocaccino,2,12.2,Efectivo
+2023-03-20 07:28:08.473957,Café Latte,4,11.18,Pago Móvil
+2023-09-08 03:28:10.459628,Brownie,1,13.3,Efectivo
+2023-05-02 09:58:53.370035,Croissant,4,8.63,Efectivo
+2023-10-20 09:40:33.781056,Café Americano,4,3.14,Efectivo
+2023-02-28 13:21:18.378522,Brownie,2,13.1,Pago Móvil
+2023-08-12 14:36:08.636821,Té Negro,3,3.03,Tarjeta de Crédito
+2023-09-06 08:58:09.881725,Capuchino,3,14.79,Tarjeta de Crédito
+2023-04-24 11:03:47.616539,Croissant,2,5.21,Tarjeta de Crédito
+2023-04-16 03:29:51.693457,Café Americano,2,3.93,Pago Móvil
+2023-03-25 06:22:49.340425,Té Verde,3,6.12,Pago Móvil
+2023-12-19 15:43:09.231389,Croissant,2,7.51,Pago Móvil
+2023-09-30 07:28:29.104750,Café Latte,4,12.96,Pago Móvil
+2023-07-25 02:47:34.406918,Espresso,3,6.49,Tarjeta de Débito
+2023-07-06 03:53:48.347153,Galleta,3,7.46,Efectivo
+2023-01-05 15:53:23.377113,Galleta,4,13.52,Tarjeta de Crédito
+2023-04-02 23:36:39.798408,Café Americano,2,12.45,Pago Móvil
+2023-04-29 14:14:18.387949,Café Latte,4,12.61,Efectivo
+2023-02-15 19:53:38.259937,Té Negro,3,14.19,Efectivo
+2023-08-17 01:53:55.975384,Espresso,4,8.61,Efectivo
+2023-05-03 08:12:29.890102,Espresso,3,12.76,Pago Móvil
+2023-07-15 10:16:08.046124,Jugo de Naranja,1,9.71,Tarjeta de Crédito
+2023-01-18 16:19:08.555635,Croissant,4,13.21,Pago Móvil
+2023-09-26 02:51:15.727752,Té Negro,1,9.58,Tarjeta de Crédito
+2023-05-12 21:12:05.053589,Croissant,2,14.0,Efectivo
+2023-03-15 10:56:55.000844,Brownie,1,5.0,Pago Móvil
+2023-09-18 15:43:07.666829,Café Americano,2,11.41,Tarjeta de Débito
+2023-10-08 06:06:25.083764,Croissant,1,10.25,Pago Móvil
+2023-11-27 08:24:09.674507,Sandwich de Jamón y Queso,2,5.1,Tarjeta de Débito
+2023-07-14 15:14:11.451186,Chocolate Caliente,2,9.29,Tarjeta de Crédito
+2023-10-20 05:45:08.438339,Mocaccino,4,7.3,Tarjeta de Crédito
+2023-09-20 11:39:12.942811,Sandwich de Jamón y Queso,1,3.59,Tarjeta de Débito
+2023-09-30 10:42:12.206537,Capuchino,4,4.18,Tarjeta de Crédito
+2023-01-02 12:49:52.195022,Galleta,2,7.4,Pago Móvil
+2023-02-20 02:44:30.834951,Café Americano,4,11.55,Tarjeta de Crédito
+2023-08-30 02:31:35.404625,Jugo de Naranja,4,13.75,Tarjeta de Débito
+2023-04-23 20:06:11.523091,Chocolate Caliente,3,7.22,Tarjeta de Débito
+2023-06-15 04:08:40.372926,Mocaccino,3,3.17,Tarjeta de Crédito
+2023-09-01 09:04:19.593396,Té Negro,2,2.81,Pago Móvil
+2023-11-02 05:28:33.959765,Capuchino,1,11.59,Efectivo
+2023-11-23 02:59:52.079146,Té Verde,1,13.77,Efectivo
+2023-04-29 15:06:56.528658,Brownie,1,2.69,Pago Móvil
+2023-07-06 20:51:20.959550,Té Verde,4,11.92,Pago Móvil
+2023-04-16 04:34:19.728036,Sandwich de Jamón y Queso,4,14.54,Tarjeta de Débito
+2023-03-17 02:03:20.895423,Sandwich de Jamón y Queso,3,5.86,Pago Móvil
+2023-02-22 07:50:17.749805,Jugo de Naranja,3,9.74,Pago Móvil
+2023-07-05 18:16:42.895316,Café Latte,2,2.65,Pago Móvil
+2023-01-24 09:13:12.612088,Capuchino,4,12.67,Pago Móvil
+2023-02-16 11:10:23.203738,Té Verde,1,14.6,Tarjeta de Débito
+2023-07-30 13:42:03.654840,Mocaccino,2,8.45,Tarjeta de Crédito
+2023-08-23 15:44:23.857778,Jugo de Naranja,2,3.34,Pago Móvil
+2023-05-01 03:18:27.701099,Espresso,3,3.42,Tarjeta de Débito
+2023-10-05 16:34:21.987069,Galleta,4,14.13,Tarjeta de Débito
+2023-06-19 18:08:24.981447,Galleta,2,4.56,Pago Móvil
+2023-01-29 10:03:51.675345,Té Verde,3,9.66,Efectivo
+2023-05-04 11:10:56.682357,Sandwich de Jamón y Queso,2,14.52,Tarjeta de Crédito
+2023-07-17 23:13:22.383458,Mocaccino,2,5.95,Efectivo
+2023-10-12 12:03:07.840443,Brownie,4,8.42,Tarjeta de Débito
+2023-01-14 10:32:58.086488,Jugo de Naranja,1,6.41,Efectivo
+2023-02-28 08:37:05.529833,Sandwich de Jamón y Queso,3,7.07,Pago Móvil
+2023-02-06 08:50:02.420324,Croissant,4,6.27,Efectivo
+2023-01-12 15:03:06.165594,Café Americano,3,4.41,Tarjeta de Crédito
+2023-03-18 20:46:10.749278,Galleta,1,3.16,Efectivo
+2023-06-10 17:33:14.277517,Galleta,2,7.92,Efectivo
+2023-07-09 18:43:31.914705,Jugo de Naranja,4,11.32,Pago Móvil
+2023-05-21 07:45:12.299013,Galleta,3,7.89,Efectivo
+2023-06-15 09:35:42.600612,Espresso,1,7.47,Tarjeta de Débito
+2023-04-22 16:18:51.546014,Chocolate Caliente,1,7.34,Tarjeta de Débito
+2023-04-30 08:37:23.510236,Té Verde,1,4.89,Tarjeta de Débito
+2023-07-01 14:47:00.115350,Sandwich de Jamón y Queso,1,6.95,Pago Móvil
+2023-03-01 10:47:23.642052,Mocaccino,2,7.25,Efectivo
+2023-04-27 21:13:44.440845,Sandwich de Jamón y Queso,3,3.84,Pago Móvil
+2023-12-23 21:50:34.748873,Muffin,1,12.23,Tarjeta de Crédito
+2023-02-22 22:17:36.206323,Jugo de Naranja,3,11.84,Pago Móvil
+2023-01-25 11:04:48.351898,Muffin,1,10.7,Tarjeta de Crédito
+2023-10-10 03:16:46.706285,Brownie,1,8.61,Tarjeta de Débito
+2023-04-09 11:45:45.876831,Galleta,3,11.22,Tarjeta de Débito
+2023-05-08 17:17:10.294027,Té Negro,2,14.92,Tarjeta de Crédito
+2023-01-19 13:52:27.092289,Mocaccino,1,14.82,Tarjeta de Crédito
+2023-03-27 07:58:15.760200,Croissant,2,2.95,Tarjeta de Crédito
+2023-05-14 04:21:05.462529,Café Americano,2,8.06,Efectivo
+2023-10-22 14:28:34.188938,Capuchino,4,6.32,Pago Móvil
+2023-06-26 18:44:11.780941,Brownie,4,14.22,Efectivo
+2023-10-14 04:20:31.658424,Chocolate Caliente,4,5.5,Pago Móvil
+2023-11-29 18:38:24.760950,Jugo de Naranja,3,6.02,Pago Móvil
+2023-05-31 09:39:51.390937,Té Verde,4,9.62,Tarjeta de Débito
+2023-02-09 10:52:03.405612,Chocolate Caliente,1,7.56,Tarjeta de Débito
+2023-01-30 04:08:19.374562,Café Americano,1,5.34,Tarjeta de Débito
+2023-03-03 15:40:54.246458,Galleta,1,3.06,Efectivo
+2023-05-18 08:01:04.723464,Galleta,3,14.66,Pago Móvil
+2023-06-04 09:06:58.266791,Mocaccino,1,7.97,Pago Móvil
+2023-01-11 23:17:51.485009,Café Americano,3,3.4,Efectivo
+2023-03-24 05:02:33.151308,Capuchino,1,8.1,Pago Móvil
+2023-04-22 09:02:06.169419,Espresso,2,11.64,Tarjeta de Débito
+2023-07-25 00:16:36.129269,Muffin,3,10.75,Tarjeta de Débito
+2023-05-07 19:02:07.548870,Jugo de Naranja,4,12.62,Pago Móvil
+2023-01-17 18:46:58.232558,Té Verde,4,8.51,Tarjeta de Crédito
+2023-02-07 11:40:54.606374,Brownie,3,3.51,Pago Móvil
+2023-06-25 01:59:00.940918,Espresso,3,2.69,Efectivo
+2023-11-08 18:27:51.693808,Galleta,2,14.99,Pago Móvil
+2023-08-02 19:08:48.372647,Té Negro,2,6.07,Tarjeta de Débito
+2023-05-14 08:45:03.580404,Jugo de Naranja,2,7.75,Efectivo
+2023-05-08 11:23:02.732458,Té Verde,3,11.65,Tarjeta de Débito
+2023-02-03 07:25:27.330266,Té Verde,3,14.98,Efectivo
+2023-01-11 02:15:07.480880,Té Verde,4,5.21,Efectivo
+2023-09-28 11:16:44.308473,Té Negro,2,10.69,Tarjeta de Crédito
+2023-12-25 13:53:14.234735,Café Latte,2,13.8,Tarjeta de Crédito
+2023-12-03 09:20:27.975167,Muffin,2,7.31,Tarjeta de Crédito
+2023-03-18 11:27:07.390852,Muffin,3,12.76,Tarjeta de Débito
+2023-10-01 11:43:15.836175,Té Negro,2,11.41,Efectivo
+2023-08-27 16:39:18.173249,Chocolate Caliente,2,2.7,Tarjeta de Débito
+2023-09-10 18:11:17.035081,Sandwich de Jamón y Queso,2,14.97,Efectivo
+2023-12-25 21:44:00.144048,Galleta,2,14.14,Tarjeta de Débito
+2023-06-22 11:09:53.138987,Capuchino,2,5.35,Pago Móvil
+2023-06-21 01:23:08.302471,Brownie,2,5.66,Tarjeta de Crédito
+2023-10-08 01:58:49.011882,Galleta,3,2.51,Pago Móvil
+2023-12-27 21:37:18.373089,Brownie,2,9.93,Efectivo
+2023-09-21 22:23:38.988007,Sandwich de Jamón y Queso,1,11.47,Pago Móvil
+2023-03-26 15:58:05.015872,Galleta,1,4.04,Tarjeta de Débito
+2023-03-22 04:50:01.697332,Té Verde,2,10.0,Pago Móvil
+2023-07-31 06:54:47.981029,Chocolate Caliente,1,8.95,Tarjeta de Crédito
+2023-07-20 21:36:39.775425,Té Negro,4,10.0,Pago Móvil
+2023-06-04 13:19:33.216707,Brownie,2,10.2,Pago Móvil
+2023-07-10 12:00:31.558592,Brownie,4,13.28,Tarjeta de Débito
+2023-11-27 13:24:15.166888,Jugo de Naranja,3,6.72,Tarjeta de Crédito
+2023-04-30 12:25:00.208381,Chocolate Caliente,2,9.8,Tarjeta de Débito
+2023-06-26 10:02:26.213176,Chocolate Caliente,4,4.29,Efectivo
+2023-05-19 20:16:31.113346,Brownie,3,14.27,Pago Móvil
+2023-06-05 15:17:44.825782,Chocolate Caliente,2,6.47,Tarjeta de Crédito
+2023-06-11 09:51:01.852959,Capuchino,1,4.77,Pago Móvil
+2023-01-30 09:37:02.024736,Té Negro,3,3.43,Efectivo
+2023-08-31 06:39:12.089648,Té Verde,4,4.65,Tarjeta de Crédito
+2023-08-26 11:55:33.852657,Capuchino,2,13.57,Pago Móvil
+2023-06-17 00:02:23.824775,Té Verde,4,2.76,Pago Móvil
+2023-09-28 20:50:42.982479,Capuchino,2,7.08,Efectivo
+2023-01-03 14:45:39.737345,Brownie,4,6.73,Pago Móvil
+2023-08-31 12:31:02.784235,Croissant,2,6.26,Tarjeta de Crédito
+2023-02-22 13:21:42.119842,Sandwich de Jamón y Queso,1,3.11,Tarjeta de Débito
+2023-02-28 08:57:28.589489,Té Verde,2,5.68,Tarjeta de Débito
+2023-06-17 05:54:16.872051,Galleta,2,3.65,Pago Móvil
+2023-08-09 23:14:52.811475,Espresso,1,11.8,Tarjeta de Crédito
+2023-09-24 23:41:41.120527,Mocaccino,3,12.38,Tarjeta de Crédito
+2023-08-29 21:49:52.283461,Brownie,2,14.3,Efectivo
+2023-06-03 03:24:46.818489,Galleta,2,13.29,Tarjeta de Débito
+2023-03-11 12:05:14.520216,Chocolate Caliente,1,10.91,Efectivo
+2023-09-26 10:31:29.232133,Té Negro,3,3.2,Tarjeta de Débito
+2023-03-29 01:19:12.116888,Mocaccino,2,14.08,Tarjeta de Débito
+2023-06-03 09:22:14.712301,Sandwich de Jamón y Queso,1,9.66,Pago Móvil
+2023-05-06 01:40:32.690461,Sandwich de Jamón y Queso,2,10.25,Pago Móvil
+2023-11-08 10:05:06.133245,Café Americano,1,6.33,Tarjeta de Débito
+2023-05-30 19:18:39.594280,Chocolate Caliente,1,3.05,Efectivo
+2023-05-04 01:14:50.662879,Muffin,3,7.15,Tarjeta de Débito
+2023-08-09 20:04:13.162144,Croissant,3,2.68,Efectivo
+2023-08-22 18:46:58.514783,Té Negro,4,5.73,Efectivo
+2023-08-19 14:04:03.345020,Espresso,3,8.3,Efectivo
+2023-10-30 19:59:55.007876,Café Americano,1,9.21,Tarjeta de Crédito
+2023-03-08 04:59:17.019048,Sandwich de Jamón y Queso,2,14.12,Tarjeta de Crédito
+2023-01-10 02:06:21.961546,Muffin,1,6.84,Efectivo
+2023-04-06 03:25:30.047673,Chocolate Caliente,1,14.47,Tarjeta de Débito
+2023-05-03 21:39:16.160264,Café Latte,4,2.85,Tarjeta de Crédito
+2023-05-15 02:05:28.163253,Mocaccino,2,6.41,Tarjeta de Crédito
+2023-08-29 08:47:39.093202,Mocaccino,4,4.36,Pago Móvil
+2023-10-06 17:10:43.972079,Chocolate Caliente,4,6.16,Tarjeta de Débito
+2023-05-06 19:19:28.384170,Galleta,3,10.55,Pago Móvil
+2023-08-03 15:47:06.232848,Galleta,4,10.99,Efectivo
+2023-01-06 12:48:27.665716,Mocaccino,2,10.11,Efectivo
+2023-07-20 21:44:24.333231,Jugo de Naranja,2,13.91,Pago Móvil
+2023-04-25 15:43:19.301322,Mocaccino,3,6.66,Tarjeta de Débito
+2023-09-22 18:53:34.164205,Brownie,1,8.7,Efectivo
+2023-12-26 19:44:50.636614,Mocaccino,2,5.73,Tarjeta de Débito
+2023-05-09 12:43:33.874903,Jugo de Naranja,2,6.06,Tarjeta de Débito
+2023-11-08 10:54:55.486402,Té Negro,4,10.81,Tarjeta de Crédito
+2023-04-27 16:05:55.955151,Muffin,4,2.73,Tarjeta de Crédito
+2023-07-28 03:24:52.402993,Muffin,4,10.25,Pago Móvil
+2023-09-05 14:33:54.509557,Capuchino,1,14.32,Tarjeta de Débito
+2023-04-15 01:48:34.191208,Croissant,4,4.29,Efectivo
+2023-08-13 20:08:44.551685,Brownie,3,14.22,Pago Móvil
+2023-01-13 11:59:24.120102,Jugo de Naranja,4,12.83,Efectivo
+2023-01-14 02:31:46.965353,Jugo de Naranja,3,7.54,Pago Móvil
+2023-05-23 04:41:17.767854,Capuchino,1,13.16,Tarjeta de Crédito
+2023-10-19 20:25:14.506747,Espresso,1,11.44,Pago Móvil
+2023-10-04 11:26:05.472638,Mocaccino,1,3.19,Tarjeta de Crédito
+2023-08-30 18:34:21.935296,Galleta,2,12.48,Efectivo
+2023-10-14 21:14:38.371692,Té Verde,4,2.67,Pago Móvil
+2023-06-01 02:14:28.468218,Muffin,1,13.78,Tarjeta de Crédito
+2023-03-08 09:28:41.556290,Café Latte,4,4.96,Tarjeta de Débito
+2023-05-03 01:17:24.868742,Galleta,4,3.2,Tarjeta de Crédito
+2023-12-27 18:23:16.341426,Brownie,2,7.38,Tarjeta de Crédito
+2023-07-27 21:03:02.476567,Espresso,2,11.61,Tarjeta de Crédito
+2023-05-12 05:25:06.371854,Croissant,3,14.24,Tarjeta de Crédito
+2023-06-23 19:45:55.124498,Jugo de Naranja,4,8.85,Efectivo
+2023-09-01 15:04:25.886495,Brownie,2,9.33,Tarjeta de Crédito
+2023-08-20 22:40:05.650405,Café Americano,2,9.35,Tarjeta de Débito
+2023-12-24 06:42:39.500485,Café Americano,3,9.63,Tarjeta de Crédito
+2023-09-21 20:38:24.644247,Jugo de Naranja,1,8.98,Tarjeta de Débito
+2023-08-21 19:34:46.917243,Croissant,4,9.89,Tarjeta de Débito
+2023-06-28 10:14:12.916173,Croissant,4,5.0,Tarjeta de Crédito
+2023-06-16 15:51:36.772246,Sandwich de Jamón y Queso,1,7.96,Tarjeta de Débito
+2023-09-23 19:24:21.098074,Brownie,4,6.02,Efectivo
+2023-04-01 02:04:46.242760,Café Latte,1,6.43,Tarjeta de Crédito
+2023-09-14 20:09:37.930704,Espresso,1,13.73,Tarjeta de Débito
+2023-08-14 01:01:02.896442,Capuchino,4,5.86,Tarjeta de Crédito
+2023-03-20 10:59:49.657520,Muffin,4,9.66,Tarjeta de Crédito
+2023-03-25 11:52:12.374892,Mocaccino,1,8.67,Efectivo
+2023-12-23 18:48:30.948840,Jugo de Naranja,3,10.63,Pago Móvil
+2023-06-06 02:11:18.710172,Brownie,1,12.91,Tarjeta de Débito
+2023-01-07 09:54:09.864177,Espresso,3,3.58,Tarjeta de Débito
+2023-08-02 21:19:33.011058,Brownie,3,10.6,Tarjeta de Débito
+2023-06-07 04:45:34.927248,Mocaccino,1,12.74,Pago Móvil
+2023-05-10 22:41:46.823898,Té Negro,3,10.08,Tarjeta de Crédito
+2023-05-21 06:55:15.480093,Muffin,1,4.29,Tarjeta de Débito
+2023-02-10 06:38:49.631922,Muffin,3,3.22,Tarjeta de Débito
+2023-12-14 04:00:04.426491,Muffin,1,5.56,Pago Móvil
+2023-04-07 10:26:22.543424,Mocaccino,4,9.32,Pago Móvil
+2023-04-10 03:14:19.448174,Jugo de Naranja,1,12.08,Efectivo
+2023-05-28 11:23:18.320534,Mocaccino,3,6.06,Efectivo
+2023-07-09 05:07:45.065482,Mocaccino,2,13.13,Pago Móvil
+2023-12-26 01:40:12.313045,Mocaccino,2,3.78,Tarjeta de Crédito
+2023-07-19 11:06:31.451550,Galleta,1,3.66,Tarjeta de Crédito
+2023-12-13 05:29:26.701536,Chocolate Caliente,2,13.0,Efectivo
+2023-12-28 22:03:34.081006,Espresso,3,9.61,Tarjeta de Crédito
+2023-07-25 16:25:34.108704,Mocaccino,4,8.0,Tarjeta de Crédito
+2023-12-12 18:59:29.969955,Galleta,3,10.5,Tarjeta de Crédito
+2023-02-11 05:52:10.728526,Chocolate Caliente,1,14.74,Pago Móvil
+2023-03-28 20:17:11.753621,Brownie,2,12.35,Tarjeta de Crédito
+2023-01-21 09:21:50.800810,Té Negro,2,11.85,Tarjeta de Crédito
+2023-04-29 00:17:25.203613,Espresso,4,12.31,Tarjeta de Débito
+2023-10-14 00:58:52.056711,Galleta,3,2.55,Tarjeta de Débito
+2023-12-27 15:15:51.052856,Muffin,2,6.86,Efectivo
+2023-04-30 07:44:09.973877,Sandwich de Jamón y Queso,2,12.07,Tarjeta de Débito
+2023-09-15 22:19:58.543615,Té Negro,4,7.32,Pago Móvil
+2023-12-04 19:06:50.819249,Capuchino,3,13.38,Efectivo
+2023-05-10 06:53:04.976264,Mocaccino,1,8.01,Efectivo
+2023-06-22 20:52:45.712856,Sandwich de Jamón y Queso,3,4.96,Pago Móvil
+2023-10-09 07:17:42.711202,Brownie,1,13.07,Tarjeta de Débito
+2023-01-31 23:14:42.204956,Brownie,4,13.81,Tarjeta de Débito
+2023-02-23 20:24:50.197855,Croissant,2,9.45,Efectivo
+2023-03-22 07:09:06.089695,Jugo de Naranja,3,8.43,Efectivo
+2023-12-16 04:09:46.773493,Galleta,1,14.77,Tarjeta de Débito
+2023-07-04 19:01:59.169547,Chocolate Caliente,3,10.96,Tarjeta de Crédito
+2023-09-24 17:44:09.334211,Mocaccino,4,7.65,Tarjeta de Débito
+2023-07-10 10:09:11.305353,Galleta,2,4.81,Tarjeta de Crédito
+2023-03-10 17:49:34.412914,Té Verde,2,4.38,Efectivo
+2023-09-14 20:05:19.591181,Galleta,1,6.09,Efectivo
+2023-09-21 14:33:13.479351,Capuchino,2,8.84,Pago Móvil
+2023-10-09 10:43:19.860491,Té Verde,4,8.42,Pago Móvil
+2023-05-28 16:02:47.097016,Té Verde,2,8.03,Tarjeta de Débito
+2023-12-08 12:01:50.884748,Espresso,2,14.0,Tarjeta de Crédito
+2023-10-11 02:48:33.600229,Té Negro,1,11.98,Efectivo
+2023-06-29 11:01:23.968435,Capuchino,2,11.7,Tarjeta de Crédito
+2023-02-27 19:03:54.628677,Café Latte,4,9.64,Pago Móvil
+2023-05-02 10:48:56.126565,Chocolate Caliente,4,8.08,Tarjeta de Débito
+2023-09-12 21:47:11.904371,Jugo de Naranja,3,5.71,Efectivo
+2023-11-02 15:51:58.202347,Muffin,3,11.9,Pago Móvil
+2023-04-02 08:10:18.120952,Brownie,4,6.18,Tarjeta de Débito
+2023-05-15 11:53:09.863232,Jugo de Naranja,4,10.77,Tarjeta de Crédito
+2023-10-06 07:51:43.088196,Sandwich de Jamón y Queso,4,9.33,Efectivo
+2023-12-29 08:08:38.736205,Brownie,3,12.63,Tarjeta de Crédito
+2023-06-18 08:17:23.756302,Té Negro,4,10.94,Efectivo
+2023-12-06 19:35:11.167003,Sandwich de Jamón y Queso,2,5.19,Pago Móvil
+2023-03-28 08:18:47.579610,Café Americano,3,9.31,Tarjeta de Crédito
+2023-11-06 19:22:25.943509,Chocolate Caliente,1,12.92,Pago Móvil
+2023-09-21 23:48:58.417539,Té Negro,3,3.57,Pago Móvil
+2023-05-11 07:48:51.770266,Mocaccino,3,7.34,Pago Móvil
+2023-08-09 03:31:11.798129,Sandwich de Jamón y Queso,1,4.48,Tarjeta de Crédito
+2023-07-25 02:49:31.317467,Sandwich de Jamón y Queso,4,13.19,Tarjeta de Débito
+2023-08-02 03:42:22.690456,Muffin,2,10.47,Pago Móvil
+2023-08-21 03:44:05.119330,Café Latte,1,13.45,Tarjeta de Crédito
+2023-08-09 20:54:03.029239,Café Latte,2,4.84,Tarjeta de Débito
+2023-03-04 10:04:31.202576,Mocaccino,3,6.13,Efectivo
+2023-06-09 05:11:00.177757,Capuchino,2,14.46,Pago Móvil
+2023-01-31 13:35:02.877922,Café Latte,1,13.98,Tarjeta de Débito
+2023-04-02 17:55:23.940692,Croissant,3,4.4,Tarjeta de Débito
+2023-10-14 17:56:25.867150,Brownie,4,2.93,Efectivo
+2023-01-28 09:57:50.148820,Galleta,3,10.34,Efectivo
+2023-03-25 16:12:43.541818,Chocolate Caliente,1,2.64,Pago Móvil
+2023-03-25 19:27:49.277648,Brownie,1,11.12,Tarjeta de Crédito
+2023-08-20 19:58:19.746578,Sandwich de Jamón y Queso,3,6.41,Pago Móvil
+2023-01-26 21:25:58.649839,Jugo de Naranja,1,2.68,Tarjeta de Débito
+2023-04-12 01:35:06.381920,Té Negro,3,13.28,Pago Móvil
+2023-02-03 00:38:25.782388,Muffin,3,12.68,Pago Móvil
+2023-08-13 05:03:51.894947,Café Americano,1,6.81,Tarjeta de Débito
+2023-02-25 02:50:26.513105,Croissant,3,9.99,Tarjeta de Crédito
+2023-01-08 03:13:52.958876,Brownie,4,13.29,Efectivo
+2023-07-23 08:53:49.510489,Café Americano,3,14.6,Tarjeta de Crédito
+2023-06-22 05:25:12.625775,Mocaccino,2,6.23,Efectivo
+2023-03-25 09:59:29.577915,Café Americano,2,14.48,Efectivo
+2023-09-15 02:40:23.083073,Café Latte,2,3.27,Tarjeta de Crédito
+2023-06-06 18:09:32.600665,Té Negro,1,14.49,Tarjeta de Crédito
+2023-08-13 19:45:36.068202,Café Americano,4,4.43,Pago Móvil
+2023-11-23 19:54:47.843851,Café Latte,1,5.38,Efectivo
+2023-09-20 23:36:20.499600,Espresso,1,8.94,Tarjeta de Crédito
+2023-02-08 18:18:33.419615,Brownie,3,4.94,Tarjeta de Crédito
+2023-10-15 19:44:41.092790,Brownie,2,4.48,Tarjeta de Crédito
+2023-09-20 05:32:19.723526,Mocaccino,4,5.8,Pago Móvil
+2023-04-21 15:06:29.079432,Muffin,1,14.54,Tarjeta de Crédito
+2023-08-28 07:12:09.459948,Espresso,1,7.88,Tarjeta de Débito
+2023-11-01 09:16:00.959604,Té Verde,3,4.56,Efectivo
+2023-04-11 14:22:15.838790,Té Negro,1,5.49,Pago Móvil
+2023-08-01 12:32:19.543303,Galleta,2,5.06,Pago Móvil
+2023-03-16 13:40:04.762503,Mocaccino,4,11.26,Efectivo
+2023-05-03 20:38:04.376537,Croissant,3,4.1,Tarjeta de Crédito
+2023-05-10 20:30:39.702024,Brownie,1,6.06,Tarjeta de Crédito
+2023-01-06 10:44:01.455080,Jugo de Naranja,2,4.65,Efectivo
+2023-02-20 12:45:17.508400,Mocaccino,4,13.59,Tarjeta de Crédito
+2023-05-27 11:16:49.546851,Jugo de Naranja,3,8.55,Tarjeta de Crédito
+2023-07-04 05:20:22.786279,Croissant,3,11.47,Tarjeta de Crédito
+2023-12-02 10:31:19.388143,Chocolate Caliente,2,13.61,Tarjeta de Débito
+2023-09-20 04:51:57.033629,Café Americano,1,6.55,Pago Móvil
+2023-07-31 23:53:53.490964,Jugo de Naranja,4,4.51,Pago Móvil
+2023-06-26 07:46:41.753828,Chocolate Caliente,3,12.83,Tarjeta de Débito
+2023-04-09 20:06:23.554416,Chocolate Caliente,4,5.4,Pago Móvil
+2023-02-15 22:46:17.971622,Muffin,4,10.32,Efectivo
+2023-04-07 17:31:03.326361,Croissant,2,6.15,Efectivo
+2023-02-25 06:22:37.617859,Té Negro,4,4.02,Tarjeta de Crédito
+2023-03-12 03:42:53.042860,Té Verde,2,8.42,Pago Móvil
+2023-04-23 01:49:17.418535,Jugo de Naranja,3,12.58,Pago Móvil
+2023-07-13 06:38:02.725160,Café Americano,4,7.09,Pago Móvil
+2023-03-23 15:46:41.393564,Muffin,1,7.47,Efectivo
+2023-03-09 12:46:12.377539,Café Americano,2,4.65,Tarjeta de Crédito
+2023-01-11 08:54:44.683449,Brownie,1,14.41,Tarjeta de Crédito
+2023-02-02 15:34:09.860180,Muffin,4,13.73,Pago Móvil
+2023-10-21 00:29:29.168238,Capuchino,4,13.82,Tarjeta de Crédito
+2023-07-13 18:11:21.195585,Capuchino,2,8.09,Tarjeta de Débito
+2023-01-02 10:23:13.647121,Té Negro,4,13.78,Tarjeta de Crédito
+2023-09-24 19:28:04.988630,Té Negro,4,8.54,Tarjeta de Débito
+2023-01-23 14:06:40.047685,Espresso,4,8.03,Tarjeta de Débito
+2023-04-04 13:47:32.012354,Croissant,4,3.91,Tarjeta de Débito
+2023-07-25 11:40:40.765338,Capuchino,2,12.97,Tarjeta de Débito
+2023-12-19 07:32:12.502669,Muffin,1,3.51,Tarjeta de Débito
+2023-01-29 06:37:59.430286,Café Americano,2,7.5,Pago Móvil
+2023-04-30 09:06:21.161354,Croissant,2,3.08,Efectivo
+2023-01-12 15:11:15.103374,Té Negro,2,6.0,Tarjeta de Débito
+2023-10-30 15:20:37.370105,Capuchino,1,14.04,Efectivo
+2023-02-16 09:59:26.688238,Té Verde,1,4.9,Tarjeta de Débito
+2023-05-09 23:09:02.253942,Té Negro,2,2.76,Tarjeta de Débito
+2023-10-09 17:59:06.627211,Sandwich de Jamón y Queso,3,9.41,Tarjeta de Débito
+2023-11-04 08:39:36.461681,Jugo de Naranja,2,4.78,Efectivo
+2023-10-03 05:29:22.718717,Chocolate Caliente,1,3.57,Tarjeta de Débito
+2023-09-30 12:58:47.409741,Té Negro,1,11.01,Efectivo
+2023-06-29 17:11:00.495669,Croissant,1,9.42,Pago Móvil
+2023-01-23 00:46:31.875372,Espresso,1,12.66,Tarjeta de Crédito
+2023-01-17 09:37:21.924939,Capuchino,2,3.33,Pago Móvil
+2023-09-26 06:10:53.813391,Sandwich de Jamón y Queso,3,7.44,Tarjeta de Débito
+2023-09-18 10:20:09.013890,Sandwich de Jamón y Queso,4,3.34,Tarjeta de Crédito
+2023-10-29 06:24:53.166402,Café Americano,4,13.81,Tarjeta de Débito
+2023-11-24 05:01:35.841951,Espresso,1,4.69,Pago Móvil
+2023-01-22 18:51:52.007750,Té Negro,3,3.87,Pago Móvil
+2023-07-01 13:18:28.038531,Mocaccino,4,12.53,Efectivo
+2023-10-19 14:26:37.173238,Galleta,4,9.15,Pago Móvil
+2023-03-07 03:10:00.614042,Capuchino,3,14.66,Tarjeta de Crédito
+2023-09-05 01:23:38.388498,Croissant,3,5.94,Efectivo
+2023-02-26 07:42:04.315644,Café Latte,2,2.56,Efectivo
+2023-09-23 19:37:08.896466,Brownie,4,13.07,Tarjeta de Débito
+2023-01-18 01:22:49.984502,Mocaccino,3,10.2,Tarjeta de Débito
+2023-01-03 20:14:38.219490,Capuchino,4,9.03,Tarjeta de Débito
+2023-01-02 10:43:00.440831,Muffin,4,8.84,Tarjeta de Débito
+2023-03-02 18:53:25.161485,Sandwich de Jamón y Queso,2,6.79,Pago Móvil
+2023-05-08 17:34:11.487728,Té Negro,2,8.98,Pago Móvil
+2023-01-20 07:12:23.716534,Capuchino,2,5.27,Efectivo
+2023-02-21 23:34:50.424230,Galleta,4,9.97,Pago Móvil
+2023-07-10 06:08:14.228597,Muffin,3,14.85,Pago Móvil
+2023-09-21 12:37:11.894341,Capuchino,3,4.0,Efectivo
+2023-11-23 12:06:30.279211,Galleta,2,14.4,Pago Móvil
+2023-12-23 03:47:16.736416,Té Verde,4,5.68,Efectivo
+2023-07-23 22:06:49.972698,Chocolate Caliente,1,14.79,Tarjeta de Débito
+2023-11-18 05:46:41.850599,Té Negro,1,5.08,Tarjeta de Crédito
+2023-03-27 19:27:02.149956,Muffin,3,14.38,Tarjeta de Crédito
+2023-12-17 11:55:19.945638,Mocaccino,4,11.0,Tarjeta de Débito
+2023-12-01 08:31:51.332821,Sandwich de Jamón y Queso,3,10.23,Efectivo
+2023-04-29 17:15:42.313583,Brownie,4,13.95,Pago Móvil
+2023-09-09 11:05:18.800268,Mocaccino,2,6.45,Tarjeta de Débito
+2023-08-02 21:43:18.499859,Sandwich de Jamón y Queso,4,5.18,Tarjeta de Débito
+2023-02-19 19:02:20.262465,Café Americano,3,11.03,Pago Móvil
+2023-11-19 11:20:36.815779,Galleta,1,6.32,Tarjeta de Crédito
+2023-02-12 02:28:56.729363,Espresso,2,5.47,Tarjeta de Débito
+2023-11-29 09:37:17.506482,Capuchino,1,3.33,Efectivo
+2023-09-26 06:15:10.801528,Galleta,1,10.08,Tarjeta de Crédito
+2023-02-22 00:10:01.753700,Jugo de Naranja,2,7.94,Pago Móvil
+2023-01-26 06:13:39.125449,Té Verde,4,13.8,Tarjeta de Débito
+2023-07-01 00:28:45.415980,Café Americano,2,2.97,Pago Móvil
+2023-09-23 06:48:43.454201,Café Americano,3,12.96,Tarjeta de Crédito
+2023-10-15 23:48:42.779490,Té Verde,3,8.58,Efectivo
+2023-06-08 02:59:07.193596,Brownie,3,12.48,Efectivo
+2023-08-03 04:35:20.944831,Té Verde,3,13.46,Efectivo
+2023-06-30 02:53:41.703961,Chocolate Caliente,2,14.39,Pago Móvil
+2023-07-11 17:06:31.275343,Jugo de Naranja,1,8.52,Tarjeta de Débito
+2023-11-24 14:46:06.574933,Brownie,1,13.35,Tarjeta de Crédito
+2023-12-09 06:39:38.842498,Galleta,1,13.06,Pago Móvil
+2023-05-10 00:35:49.604647,Brownie,3,7.13,Tarjeta de Débito
+2023-12-03 09:32:19.440659,Espresso,3,8.66,Tarjeta de Crédito
+2023-12-16 01:07:01.378090,Muffin,3,12.27,Efectivo
+2023-11-10 18:42:54.515958,Café Americano,1,4.39,Pago Móvil
+2023-07-04 00:36:29.086043,Café Latte,3,13.39,Efectivo
+2023-06-10 08:46:39.510847,Capuchino,4,13.58,Tarjeta de Débito
+2023-02-18 07:06:33.963410,Mocaccino,2,8.62,Efectivo
+2023-08-23 23:44:54.644101,Espresso,4,8.31,Tarjeta de Débito
+2023-11-24 13:29:44.390556,Muffin,3,4.84,Efectivo
+2023-04-13 14:23:18.623198,Espresso,4,6.82,Efectivo
+2023-07-21 06:09:11.820534,Brownie,4,9.98,Tarjeta de Débito
+2023-11-09 15:55:31.653160,Capuchino,4,6.23,Tarjeta de Débito
+2023-07-05 13:07:49.805565,Café Latte,2,9.16,Efectivo
+2023-05-28 10:59:28.950785,Té Negro,2,10.54,Efectivo
+2023-02-01 10:47:56.593760,Sandwich de Jamón y Queso,2,8.61,Tarjeta de Crédito
+2023-09-23 18:48:20.767509,Té Verde,3,8.07,Tarjeta de Débito
+2023-02-22 12:28:10.703001,Té Negro,3,5.9,Tarjeta de Crédito
+2023-12-01 15:57:21.709769,Chocolate Caliente,3,14.95,Tarjeta de Crédito
+2023-07-28 21:12:52.865888,Chocolate Caliente,1,8.21,Tarjeta de Crédito
+2023-05-08 00:14:14.973653,Mocaccino,4,4.83,Tarjeta de Débito
+2023-10-31 00:51:54.288384,Sandwich de Jamón y Queso,4,12.47,Tarjeta de Crédito
+2023-02-01 02:13:18.681747,Café Latte,2,3.08,Tarjeta de Crédito
+2023-09-21 05:15:24.584781,Galleta,1,11.89,Tarjeta de Débito
+2023-01-27 16:53:44.163612,Café Americano,1,11.07,Tarjeta de Crédito
+2023-10-26 19:11:33.850691,Croissant,2,14.74,Pago Móvil
+2023-10-29 12:09:28.286959,Sandwich de Jamón y Queso,1,6.32,Tarjeta de Crédito
+2023-01-13 11:00:28.856452,Mocaccino,2,6.06,Pago Móvil
+2023-06-23 05:42:54.511555,Té Verde,4,14.86,Pago Móvil
+2023-03-03 00:07:21.642539,Brownie,2,10.3,Tarjeta de Crédito
+2023-03-21 03:49:04.704227,Café Latte,2,5.65,Pago Móvil
+2023-08-08 19:04:06.361149,Capuchino,2,14.5,Tarjeta de Débito
+2023-09-03 17:55:00.085674,Café Americano,4,14.63,Efectivo
+2023-11-24 04:08:58.249130,Café Americano,2,6.3,Pago Móvil
+2023-08-09 22:09:26.925367,Mocaccino,1,14.97,Efectivo
+2023-02-05 01:47:03.819952,Jugo de Naranja,1,12.32,Pago Móvil
+2023-12-17 03:41:20.543834,Mocaccino,1,9.9,Efectivo
+2023-05-18 05:32:17.715781,Brownie,3,9.1,Efectivo
+2023-03-20 06:22:19.420400,Mocaccino,1,9.59,Tarjeta de Crédito
+2023-05-09 10:04:33.124738,Chocolate Caliente,2,8.13,Tarjeta de Crédito
+2023-11-02 02:15:31.416580,Croissant,4,4.88,Tarjeta de Crédito
+2023-12-28 08:55:24.490819,Brownie,3,4.02,Efectivo
+2023-11-23 15:36:41.005388,Té Negro,3,3.5,Tarjeta de Débito
+2023-07-29 17:09:38.160532,Muffin,2,4.09,Tarjeta de Crédito
+2023-10-19 05:27:45.964378,Mocaccino,1,7.54,Efectivo
+2023-07-23 20:16:23.290905,Mocaccino,1,13.62,Efectivo
+2023-11-09 05:09:12.056277,Espresso,3,4.73,Efectivo
+2023-11-12 13:51:14.221514,Café Latte,4,6.66,Pago Móvil
+2023-12-31 13:21:43.235919,Capuchino,3,14.44,Tarjeta de Crédito
+2023-10-20 23:35:28.990955,Brownie,2,5.28,Efectivo
+2023-06-04 02:13:19.377118,Sandwich de Jamón y Queso,2,4.87,Efectivo
+2023-07-26 09:24:23.888093,Capuchino,1,13.32,Pago Móvil
+2023-11-04 23:10:00.407300,Muffin,3,3.4,Tarjeta de Crédito
+2023-07-18 20:42:14.006848,Capuchino,1,5.09,Efectivo
+2023-08-01 07:06:19.846952,Café Americano,4,10.38,Tarjeta de Crédito
+2023-02-04 16:38:17.290575,Jugo de Naranja,2,6.56,Efectivo
+2023-07-26 13:54:22.717723,Espresso,4,11.43,Tarjeta de Débito
+2023-02-07 02:57:29.677385,Té Negro,4,3.63,Pago Móvil
+2023-02-05 17:42:33.954531,Café Americano,2,4.06,Pago Móvil
+2023-09-06 22:41:18.759206,Brownie,1,14.35,Tarjeta de Crédito
+2023-01-25 21:07:10.463810,Croissant,2,12.16,Tarjeta de Crédito
+2023-02-05 06:26:05.628020,Té Verde,2,8.85,Efectivo
+2023-12-19 09:24:16.280946,Chocolate Caliente,1,11.74,Efectivo
+2023-08-03 16:16:47.042040,Mocaccino,2,3.46,Efectivo
+2023-01-16 18:49:03.429311,Muffin,3,2.76,Tarjeta de Crédito
+2023-11-03 04:13:57.819866,Brownie,2,2.54,Efectivo
+2023-06-10 05:40:56.022684,Brownie,3,13.94,Tarjeta de Débito
+2023-12-19 02:38:43.128709,Mocaccino,2,10.18,Efectivo
+2023-10-01 02:26:26.692815,Jugo de Naranja,1,8.26,Tarjeta de Crédito
+2023-05-29 05:15:18.667236,Capuchino,1,11.25,Tarjeta de Crédito
+2023-03-18 13:27:54.844268,Mocaccino,2,5.42,Tarjeta de Crédito
+2023-04-18 06:23:46.968295,Chocolate Caliente,1,3.44,Tarjeta de Débito
+2023-03-27 19:48:20.180419,Mocaccino,3,3.1,Efectivo
+2023-01-07 16:00:02.507470,Chocolate Caliente,2,12.7,Pago Móvil
+2023-10-22 13:28:41.297185,Espresso,2,4.88,Pago Móvil
+2023-06-18 01:03:20.048027,Muffin,1,8.47,Tarjeta de Crédito
+2023-11-21 07:21:10.514312,Muffin,1,12.0,Tarjeta de Débito
+2023-08-21 09:40:45.396010,Capuchino,4,6.65,Tarjeta de Crédito
+2023-09-25 09:25:47.314893,Galleta,4,9.96,Efectivo
+2023-11-29 19:10:36.054608,Café Americano,4,9.84,Pago Móvil
+2023-12-21 15:05:52.707556,Galleta,1,12.26,Pago Móvil
+2023-11-06 11:20:20.879028,Té Negro,3,7.81,Tarjeta de Débito
+2023-10-29 09:31:46.609198,Espresso,1,5.4,Tarjeta de Crédito
+2023-11-04 10:01:14.902866,Té Verde,4,9.18,Pago Móvil
+2023-09-21 18:50:26.683334,Capuchino,4,8.52,Tarjeta de Crédito
+2023-08-13 16:22:03.462638,Café Latte,1,10.09,Pago Móvil
+2023-04-14 08:43:35.112959,Mocaccino,4,4.96,Tarjeta de Crédito
+2023-09-27 00:19:22.087785,Croissant,1,12.73,Pago Móvil
+2023-10-09 07:08:12.909605,Café Latte,2,10.5,Tarjeta de Crédito
+2023-10-17 03:20:59.687913,Chocolate Caliente,1,14.09,Pago Móvil
+2023-06-22 21:28:55.411074,Café Americano,3,5.55,Tarjeta de Débito
+2023-06-15 16:01:46.520693,Capuchino,3,8.87,Pago Móvil
+2023-04-27 12:31:12.627591,Té Verde,4,4.49,Pago Móvil
+2023-08-14 15:40:18.180652,Jugo de Naranja,3,2.95,Tarjeta de Débito
+2023-04-09 22:59:55.720965,Galleta,1,3.22,Pago Móvil
+2023-12-18 01:02:24.912854,Mocaccino,4,4.37,Tarjeta de Débito
+2023-08-29 09:09:27.806192,Galleta,4,10.19,Tarjeta de Crédito
+2023-07-11 09:14:12.101356,Brownie,1,8.12,Tarjeta de Crédito
+2023-03-04 02:47:49.190556,Sandwich de Jamón y Queso,2,10.95,Tarjeta de Crédito
+2023-04-25 16:43:04.060798,Jugo de Naranja,2,9.89,Pago Móvil
+2023-07-25 08:56:29.136955,Muffin,1,8.58,Pago Móvil
+2023-10-13 20:52:44.036451,Espresso,1,11.07,Pago Móvil
+2023-02-19 12:57:29.154796,Jugo de Naranja,3,12.53,Tarjeta de Débito
+2023-05-13 12:22:37.717737,Espresso,2,4.2,Pago Móvil
+2023-04-10 23:34:54.118606,Café Latte,4,6.34,Pago Móvil
+2023-04-03 20:05:30.375061,Muffin,2,10.1,Tarjeta de Débito
+2023-06-02 09:03:07.891316,Brownie,3,12.47,Tarjeta de Débito
+2023-01-06 15:14:19.580747,Sandwich de Jamón y Queso,4,5.12,Pago Móvil
+2023-12-01 19:26:54.580244,Brownie,1,9.32,Tarjeta de Crédito
+2023-01-18 20:12:54.549234,Espresso,1,11.04,Tarjeta de Débito
+2023-04-03 19:18:15.962991,Croissant,4,7.49,Pago Móvil
+2023-07-12 19:07:06.897764,Chocolate Caliente,4,3.17,Pago Móvil
+2023-08-23 15:47:39.233437,Galleta,2,7.17,Tarjeta de Crédito
