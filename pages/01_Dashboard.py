@@ -100,7 +100,7 @@ if not df.empty:
     st.dataframe(df.sort_values(by='Fecha', ascending=False), use_container_width=True)
 
 else:
-    st.title(f"☕ Bienvenido, {st.session_state['name']}")
+    st.title(f"Bienvenido, {st.session_state['name']}")
     st.info("Aún no hay datos registrados para este comercio. Por favor, suba el archivo CSV desde el Panel de Administrador.")
     
     with st.expander("Ayuda: Formato del archivo"):

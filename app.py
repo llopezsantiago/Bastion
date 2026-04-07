@@ -62,5 +62,5 @@ else:
                     else:
                         st.error("Error: El ID ya existe.")
     else:
-        st.title(f"☕ Bienvenid@, {name}")
+        st.title(f"Bienvenid@, {name}")
         st.info("Use el menú lateral para navegar hacia su Dashboard de ventas.")
